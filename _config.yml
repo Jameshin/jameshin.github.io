@@ -1,7 +1,7 @@
 # Site
 title:              James Shin's CyberNote
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Computational & AI Thinking'
+description:        "Computational & AI Thinking"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -41,9 +41,9 @@ instagram:          default
 github:             shandy77
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Daejeon, Republic of Korea
+phone:              +82-42-869-0602
+email:              shinjunghun77@gmail.com
 
 # Gems
 gems:
