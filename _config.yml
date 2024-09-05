@@ -1,7 +1,7 @@
 # Site
-title:              'Dude.com - Just Feel Joyful with Us'
+title:              'Dude.com'
 bio:                'Computational & Joyful Thinking'
-description:        "Computational & Joyful Thinking"
+description:        "Just Feel Joyful with Us"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
