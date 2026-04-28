@@ -39,21 +39,7 @@ sitemap:
 					<header id="header">
 						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 					</header>
-					<script>
-					// 웹사이트에서 에이전트에게 말 걸기
-					async function askAgent(message) {
-					    const response = await fetch("http://localhost:8000/chat", {
-					        method: "POST",
-					        headers: { "Content-Type": "application/json" },
-					        body: JSON.stringify({ user_message: message })
-					    });
-					    const data = await response.json();
-					    alert("에이전트 답변: " + data.agent_reply);
-					}
-					
-					// 테스트 실행
-					// askAgent("내가 플랫폼에 의존하지 않으려면 첫 번째로 뭘 해야 할까?");
-					</script>
+
 				<!-- Nav -->
 					<nav id="nav">
 
@@ -87,7 +73,21 @@ sitemap:
 								 </p>
 
 							</article>
-
+							<script>
+							// 웹사이트에서 에이전트에게 말 걸기
+							async function askAgent(message) {
+							    const response = await fetch("http://localhost:8000/chat", {
+							        method: "POST",
+							        headers: { "Content-Type": "application/json" },
+							        body: JSON.stringify({ user_message: message })
+							    });
+							    const data = await response.json();
+							    alert("에이전트 답변: " + data.agent_reply);
+							}
+							
+							// 테스트 실행
+							// askAgent("내가 플랫폼에 의존하지 않으려면 첫 번째로 뭘 해야 할까?");
+							</script>
 						<!-- Posts -->
 							<section class="posts">
                 {% for post in site.posts limit:3 %}
