@@ -126,7 +126,10 @@ sitemap:
 						            // 주의: GitHub Pages 배포 시 ngrok 주소로 변경해야 합니다. (아래 설명 참조)
 						            const response = await fetch("https://edgio-210-119-114-21.run.pinggy-free.link/chat", {
 						                method: "POST",
-						                headers: { "Content-Type": "application/json" },
+						                headers: { "Content-Type": "application/json"
+												 "ngrok-skip-browser-warning": "true",
+                    							"Bypass-Tunnel-Reminder": "true"
+												 },
 						                body: JSON.stringify({ user_message: msg })
 						            });
 						            
