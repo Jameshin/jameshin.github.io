@@ -73,21 +73,7 @@ sitemap:
 								 </p>
 
 							</article>
-							<script>
-							// 웹사이트에서 에이전트에게 말 걸기
-							async function askAgent(message) {
-							    const response = await fetch("http://localhost:8000/chat", {
-							        method: "POST",
-							        headers: { "Content-Type": "application/json" },
-							        body: JSON.stringify({ user_message: message })
-							    });
-							    const data = await response.json();
-							    alert("에이전트 답변: " + data.agent_reply);
-							}
-							
-							// 테스트 실행
-							// askAgent("내가 플랫폼에 의존하지 않으려면 첫 번째로 뭘 해야 할까?");
-							</script>
+
 						<!-- Posts -->
 							<section class="posts">
                 {% for post in site.posts limit:3 %}
@@ -132,37 +118,37 @@ sitemap:
 		{% include scripts-main.html %}
     {% include tracking.html %}
 		<div class="chat-box">
-		    <h2>🤖 퍼스널 인프라 오케스트레이터</h2>
-		    <input type="text" id="userInput" placeholder="에이전트에게 무엇이든 물어보세요...">
-		    <button onclick="sendQuestion()">질문하기</button>
-		    
-		    <div id="responseArea"></div>
-		</div>
-		
-		<script>
-		    async function sendQuestion() {
-		        const msg = document.getElementById("userInput").value;
-		        const responseArea = document.getElementById("responseArea");
-		        
-		        if (!msg) return alert("질문을 입력해주세요!");
-		        
-		        // 로딩 메시지 표시
-		        responseArea.innerHTML = "<i>에이전트가 생각 중입니다... (10~30초 소요)</i>";
-		
-		        try {
-		            const response = await fetch("http://localhost:8000/chat", {
-		                method: "POST", // POST 방식으로 명시!
-		                headers: { "Content-Type": "application/json" },
-		                body: JSON.stringify({ user_message: msg }) // 질문 데이터를 포장해서 보냄
-		            });
-		            
-		            const data = await response.json();
-		            // 결과를 화면에 출력
-		            responseArea.innerText = data.agent_reply; 
-		        } catch (error) {
-		            responseArea.innerHTML = "<span style='color:red;'>서버 연결에 실패했습니다. WSL2 서버가 켜져 있는지 확인하세요!</span>";
-		        }
-		    }
-		</script>
+				    <h2>🤖 퍼스널 인프라 오케스트레이터</h2>
+				    <input type="text" id="userInput" placeholder="에이전트에게 무엇이든 물어보세요...">
+				    <button onclick="sendQuestion()">질문하기</button>
+				    
+				    <div id="responseArea"></div>
+				</div>
+				
+				<script>
+				    async function sendQuestion() {
+				        const msg = document.getElementById("userInput").value;
+				        const responseArea = document.getElementById("responseArea");
+				        
+				        if (!msg) return alert("질문을 입력해주세요!");
+				        
+				        // 로딩 메시지 표시
+				        responseArea.innerHTML = "<i>에이전트가 생각 중입니다... (10~30초 소요)</i>";
+				
+				        try {
+				            const response = await fetch("http://localhost:8000/chat", {
+				                method: "POST", // POST 방식으로 명시!
+				                headers: { "Content-Type": "application/json" },
+				                body: JSON.stringify({ user_message: msg }) // 질문 데이터를 포장해서 보냄
+				            });
+				            
+				            const data = await response.json();
+				            // 결과를 화면에 출력
+				            responseArea.innerText = data.agent_reply; 
+				        } catch (error) {
+				            responseArea.innerHTML = "<span style='color:red;'>서버 연결에 실패했습니다. WSL2 서버가 켜져 있는지 확인하세요!</span>";
+				        }
+				    }
+				</script>
 	</body>
 </html>
