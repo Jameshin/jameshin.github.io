@@ -1,8 +1,3 @@
 @echo off
-setlocal
-wsl bash -c "ollama serve > /dev/null 2>&1 & sleep 10"
-wsl bash -c "python3 -m pip install --upgrade pip && python3 -m pip install feedparser requests"
-wsl bash -c "cd /mnt/c/Users/Public/jameshin.github.io && python3 daily_batch.py"
-timeout /t 5 /nobreak > NUL
-start chrome "https://dudejoy.com"
+wsl python3 /mnt/c/Users/Public/jameshin.github.io/daily_batch.py
 pause

@@ -196,9 +196,9 @@ image: "{image_path}"
 ---
 
 <div style="background-color: #1e293b; border-left: 5px solid #deff9a; padding: 20px; border-radius: 8px; margin-top: 40px; color: #f8fafc;">
-    <h4 style="margin-top: 0; color: #deff9a; font-size: 18px;">🤖 정훈님의 AI 지식 비서와 대화해 보세요!</h4>
+    <h4 style="margin-top: 0; color: #deff9a; font-size: 18px;"> Agent Assistant와 더 깊은 대화를 나누세요.</h4>
     <p style="font-size: 14px; color: #cbd5e1; margin-bottom: 15px;">
-        방금 읽으신 오늘자 <strong>{keyword_tags}</strong> 논문이나 기술 동향에 대해 더 깊은 분석이나 궁금한 점이 있으신가요? 
+        방금 읽으신 오늘자 {keyword_tags} 논문이나 기술 동향에 대해 더 깊은 분석이나 궁금한 점이 있으신가요? 
         지금 실시간으로 학습된 AI 에이전트와 직접 질문을 주거니 받거니 하며 토론해 보세요!
     </p>
     <a href="https://agent.dudejoy.com" target="_blank" style="display: inline-block; background-color: #deff9a; color: #0f172a; font-weight: bold; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.3s;">
@@ -207,7 +207,7 @@ image: "{image_path}"
 </div>
 
 <br>
-    md_content += "\n\n---\n*본 브리핑 포스팅은 Local LLM (Gemma4)과 자동화 에이전트를 통해 생성되었습니다.*"""
+    *본 브리핑 포스팅은 Local LLM (Gemma4)과 자동화 에이전트를 통해 생성되었습니다.*"""
 
     try:
         if not os.path.exists(os.path.join(BLOG_DIR, "_posts")):
