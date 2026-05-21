@@ -150,7 +150,7 @@ def summarize_with_gemma(context):
         }, timeout=300)
         return response.json().get('response', "요약본 생성에 실패했습니다.")
     except Exception as e:
-        return f"Gemma 연결 실패: {e}"
+        return f"연결 실패: {e}"
 
 # ==========================================
 # 6. Jekyll 포스팅 생성 및 GitHub 업로드
@@ -166,7 +166,7 @@ def post_to_jekyll(summary, papers, news, image_path, keywords_list, mode):
     # 🌟 [동적 문구 생성 구역] 정훈님이 설정한 키워드들을 이쁘게 문장으로 조립합니다.
     # 예시: "LLM, RAG (AND)"
     keyword_tags = ", ".join(keywords_list) + f" ({mode})"
-    dynamic_excerpt = f"오늘 {keyword_tags} 관련 주요 기술 논문과 뉴스를 Gemma4 에이전트가 완벽하게 분석하여 전해드립니다."
+    dynamic_excerpt = f"오늘 {keyword_tags} 관련 주요 기술 논문과 뉴스를 전해드립니다."
 
     md_content = f"""---
 layout: post
