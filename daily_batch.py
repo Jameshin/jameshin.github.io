@@ -155,19 +155,24 @@ def summarize_with_gemma(context):
 # ==========================================
 # 6. Jekyll 포스팅 생성 및 GitHub 업로드
 # ==========================================
-def post_to_jekyll(summary, papers, news, image_path):
+def post_to_jekyll(summary, papers, news, image_path, keywords_list, mode):
     print("📄 [System] Jekyll 블로그 Markdown 규격 파일 생성 중...")
     
     now = datetime.now()
     today_str = now.strftime('%Y-%m-%d')
     file_name = f"{today_str}-daily-ai-briefing.md"
     file_path = os.path.join(BLOG_DIR, "_posts", file_name)
-    
+
+    # 🌟 [동적 문구 생성 구역] 정훈님이 설정한 키워드들을 이쁘게 문장으로 조립합니다.
+    # 예시: "LLM, RAG (AND)"
+    keyword_tags = ", ".join(keywords_list) + f" ({mode})"
+    dynamic_excerpt = f"오늘 {keyword_tags} 관련 주요 기술 논문과 뉴스를 Gemma4 에이전트가 완벽하게 분석하여 전해드립니다."
+
     md_content = f"""---
 layout: post
-title: "🤖 {today_str} AI & Tech Daily Briefing"
+title: "{today_str} Daily AI Tech"
 date: {now.strftime('%Y-%m-%d %H:%M:%S')} +0900
-excerpt: "오늘의 주요 AI 기술 논문과 뉴스를 Gemma4 에이전트가 요약하여 전해드립니다."
+excerpt: "{dynamic_excerpt}"
 image: "{image_path}"
 ---
 
@@ -185,7 +190,24 @@ image: "{image_path}"
     for n in news:
         md_content += f"- [{n['title']}]({n['url']})\n"
 
-    md_content += "\n\n---\n*본 브리핑 포스팅은 Local LLM (Gemma4)과 자동화 에이전트를 통해 생성되었습니다.*"
+# 🌟 [정훈님 맞춤 추가] 본문 맨 하단에 실시간 채팅창으로 갈 수 있는 세련된 테두리 버튼 박스를 생성합니다.
+    md_content += f"""
+
+---
+
+<div style="background-color: #1e293b; border-left: 5px solid #deff9a; padding: 20px; border-radius: 8px; margin-top: 40px; color: #f8fafc;">
+    <h4 style="margin-top: 0; color: #deff9a; font-size: 18px;">🤖 정훈님의 AI 지식 비서와 대화해 보세요!</h4>
+    <p style="font-size: 14px; color: #cbd5e1; margin-bottom: 15px;">
+        방금 읽으신 오늘자 <strong>{keyword_tags}</strong> 논문이나 기술 동향에 대해 더 깊은 분석이나 궁금한 점이 있으신가요? 
+        지금 실시간으로 학습된 AI 에이전트와 직접 질문을 주거니 받거니 하며 토론해 보세요!
+    </p>
+    <a href="https://agent.dudejoy.com" target="_blank" style="display: inline-block; background-color: #deff9a; color: #0f172a; font-weight: bold; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.3s;">
+        👉 AI 에이전트와 실시간 채팅하기
+    </a>
+</div>
+
+<br>
+    md_content += "\n\n---\n*본 브리핑 포스팅은 Local LLM (Gemma4)과 자동화 에이전트를 통해 생성되었습니다.*"""
 
     try:
         if not os.path.exists(os.path.join(BLOG_DIR, "_posts")):
@@ -230,4 +252,4 @@ if __name__ == "__main__":
     final_summary = summarize_with_gemma(ctx)
     
     # 5단계: 이미지 경로를 Front Matter에 포함하여 최종 포스팅 및 푸시
-    post_to_jekyll(final_summary, p_data, n_data, saved_img_path)
+    post_to_jekyll(final_summary, p_data, n_data, saved_img_path, KEYWORDS, KEYWORD_MODE)
