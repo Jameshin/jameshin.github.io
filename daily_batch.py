@@ -12,11 +12,9 @@ from datetime import datetime, timedelta
 # 1. 설정 (정훈 님의 주소 및 키워드 제어)
 # ==========================================
 # 🌟 검색하고 싶은 키워드들을 적어줍니다.
-KEYWORDS = ["Data", "AI", "Science"] 
+KEYWORDS = ["Data", "AI", "Engineering"] 
 
 # 🌟 여기에 "AND" 또는 "OR"를 입력하여 검색 방식을 언제든 바꿀 수 있습니다!
-# "AND" = 모든 키워드가 동시에 들어간 것만 수집 (좁고 깊게)
-# "OR"  = 키워드 중 하나라도 들어간 것은 모두 수집 (넓고 풍부하게)
 KEYWORD_MODE = "AND"  
 
 # 로컬 Ollama 모델 이름 및 주소
@@ -26,17 +24,17 @@ OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 # 🌟 정훈 님의 실제 블로그 로컬 저장소 경로 (WSL 형식)
 BLOG_DIR = "/mnt/c/Users/Public/jameshin.github.io"
 
-# 🌟 꿈속의 편안함을 주는 자연/도시 풍경 이미지 검색 태그
-IMAGE_QUERY = "serene-nature,dreamy-landscape,calm-cityscape,minimalist-scenery"
+# 🌟 꿈속의 편안함을 주는 자연/도시 풍경 이미지 검색 태그 (Lorem Flickr 전용)
+IMAGE_QUERY = "nature,landscape,cityscape,scenery"
 
 # ==========================================
-# 2. 감성 이미지 다운로드 함수
+# 2. 🛠️ 감성 이미지 다운로드 함수 (주소 서비스 전면 교체)
 # ==========================================
 def download_aesthetic_image():
-    print("[Image] 오늘 블로그에 넣을 감성 배경 이미지를 수집하고 있습니다...")
+    print("🎨 [Image] 오늘 블로그에 넣을 감성 배경 이미지를 수집하고 있습니다...")
     
-    # Unsplash에서 별도 API 키 없이 고해상도 이미지를 가져오는 주소
-    img_url = f"https://source.unsplash.com/featured/1600x900?{IMAGE_QUERY}"
+    # 🌟 Unsplash 종료로 인해, 안정적인 고해상도 무작위 풍경 서비스로 변경했습니다.
+    img_url = f"https://loremflickr.com/1600/900/{IMAGE_QUERY}/all"
     
     img_dir = os.path.join(BLOG_DIR, "images")
     if not os.path.exists(img_dir):
@@ -47,14 +45,22 @@ def download_aesthetic_image():
     save_path = os.path.join(img_dir, file_name)
     
     try:
-        response = requests.get(img_url, timeout=20)
+        # 브라우저인 척 속이기 위한 헤더 세팅 (차단 방지)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        
+        # 15초 안에 반응 없으면 에러 처리하고 넘어가도록 timeout 설정 강화
+        response = requests.get(img_url, headers=headers, timeout=15)
         if response.status_code == 200:
             with open(save_path, "wb") as f:
                 f.write(response.content)
             print(f"✅ 이미지 저장 성공: /images/{file_name}")
             return f"/images/{file_name}"
+        else:
+            print(f"⚠️ 이미지 서버 응답 실패 (코드: {response.status_code})")
     except Exception as e:
-        print(f"⚠️ 이미지 다운로드 실패 (기본 이미지로 대체): {e}")
+        print(f"⚠️ 이미지 다운로드 중 에러 발생 (기본값 대체): {e}")
     
     return "/images/default-scenery.jpg"
 
@@ -65,7 +71,6 @@ def fetch_arxiv_papers(keywords_list, mode):
     print(f"📡 [arXiv] 논문 검색 시작... (방식: {mode} / 키워드: {keywords_list})")
     papers = []
     
-    # 🌟 선택한 모드(AND/OR)에 맞춰 arXiv 전용 문법으로 결합
     joined_query = f" {mode} ".join([f'all:"{kw}"' for kw in keywords_list])
     url = f'http://export.arxiv.org/api/query?search_query={urllib.parse.quote(joined_query)}&max_results=6&sortBy=submittedDate&sortOrder=descending'
     
@@ -78,7 +83,6 @@ def fetch_arxiv_papers(keywords_list, mode):
                 summary = entry.find('{http://www.w3.org/2005/Atom}summary').text.strip()
                 paper_url = entry.find('{http://www.w3.org/2005/Atom}id').text.strip()
                 
-                # 줄바꿈 공백 청소
                 title = re.sub(r'\s+', ' ', title)
                 summary = re.sub(r'\s+', ' ', summary)
                 
@@ -99,22 +103,19 @@ def fetch_google_news(keywords_list, mode):
     print(f"📡 [News] 최신 뉴스 검색 시작... (방식: {mode} / 키워드: {keywords_list})")
     news = []
     
-    # 🌟 선택한 모드(AND/OR)에 맞춰 구글 뉴스 전용 문법으로 결합
     joined_query = f" {mode} ".join([f'"{kw}"' for kw in keywords_list])
     url = f"https://news.google.com/rss/search?q={urllib.parse.quote(joined_query)}&hl=ko&gl=KR&ceid=KR:ko"
     
     try:
         feed = feedparser.parse(url)
-        for entry in feed.entries[:6]:  # 상위 6개 뉴스
+        for entry in feed.entries[:6]:
             title = entry.title
             link = entry.link
-            
-            # 뒷부분 언론사 이름 제거 (예: "뉴스 제목 - 전자신문" -> "뉴스 제목")
             title = re.sub(r'\s-\s.*$', '', title)
             
             news.append({
                 "title": title,
-                "summary": title, # 뉴스는 본문이 없으므로 제목을 요약 힌트로 사용
+                "summary": title,
                 "url": link
             })
     except Exception as e:
@@ -162,12 +163,11 @@ def post_to_jekyll(summary, papers, news, image_path):
     file_name = f"{today_str}-daily-ai-briefing.md"
     file_path = os.path.join(BLOG_DIR, "_posts", file_name)
     
-    # 🌟 정훈 님이 요청하신 세련된 블로그 헤더(Front Matter) 양식 완벽 반영
     md_content = f"""---
 layout: post
-title: "{today_str} AI & Tech Daily Briefing"
+title: "🤖 {today_str} AI & Tech Daily Briefing"
 date: {now.strftime('%Y-%m-%d %H:%M:%S')} +0900
-excerpt: "오늘의 주요 AI 기술 논문과 뉴스를 Gemma 에이전트가 요약하여 전해드립니다."
+excerpt: "오늘의 주요 AI 기술 논문과 뉴스를 Gemma4 에이전트가 요약하여 전해드립니다."
 image: "{image_path}"
 ---
 
@@ -185,10 +185,9 @@ image: "{image_path}"
     for n in news:
         md_content += f"- [{n['title']}]({n['url']})\n"
 
-    md_content += "\n\n---\n*본 브리핑 포스팅은 로컬 LLM(Gemma)과 자동화 에이전트를 통해 생성되었습니다.*"
+    md_content += "\n\n---\n*본 브리핑 포스팅은 Local LLM (Gemma4)과 자동화 에이전트를 통해 생성되었습니다.*"
 
     try:
-        # _posts 폴더가 없으면 생성
         if not os.path.exists(os.path.join(BLOG_DIR, "_posts")):
             os.makedirs(os.path.join(BLOG_DIR, "_posts"))
             
@@ -196,10 +195,9 @@ image: "{image_path}"
             f.write(md_content)
         print(f"✅ 블로그 파일 생성 완료: {file_name}")
         
-        # 🚀 깃허브 토큰 인증 기반 자동 Push 실행
         print("🚀 GitHub 업로드(Push)를 시작합니다...")
         subprocess.run(["git", "-C", BLOG_DIR, "add", "."], check=True)
-        subprocess.run(["git", "-C", BLOG_DIR, "commit", "-m", f"Daily update with aesthetic image: {today_str}"], check=True)
+        subprocess.run(["git", "-C", BLOG_DIR, "commit", "-m", f"Daily update with stable image: {today_str}"], check=True)
         subprocess.run(["git", "-C", BLOG_DIR, "push", "origin", "HEAD"], check=True)
         print("✨ GitHub Pages 클라우드 서버에 성공적으로 배포되었습니다!")
         
