@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 # 1. 설정 (정훈 님의 주소 및 키워드 제어)
 # ==========================================
 # 🌟 검색하고 싶은 키워드들을 적어줍니다.
-KEYWORDS = ["Data", "AI", "Engineering"] 
+KEYWORDS = ["Warthunder", "AI", "Game"] 
 
 # 🌟 여기에 "AND" 또는 "OR"를 입력하여 검색 방식을 언제든 바꿀 수 있습니다!
 KEYWORD_MODE = "AND"  
