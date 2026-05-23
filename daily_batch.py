@@ -217,12 +217,19 @@ image: "{image_path}"
             f.write(md_content)
         print(f"✅ 블로그 파일 생성 완료: {file_name}")
         
+        # 🚀 [안전장치 수리 구역] 
+        # 무조건 Push하기 전, GitHub 서버에 있는 최신 변경사항을 가져와서 내 컴퓨터와 먼저 합칩니다(Pull).
+        # 업데이트 히스토리가 엇갈려도 자동으로 합치도록 `--rebase`와 `rebase.autostash` 옵션을 동원합니다.
+        print("🔄 GitHub 서버로부터 최신 정보 동기화 중 (Pull)...")
+        subprocess.run(["git", "-C", BLOG_DIR, "config", "rebase.autostash", "true"], check=True)
+        subprocess.run(["git", "-C", BLOG_DIR, "pull", "--rebase", "origin", "master"], check=False) # 혹시 마스터 브랜치 이름이 master가 아닌 main이면 알아서 맞춰 돌도록 유연하게 예외처리
+        
         print("🚀 GitHub 업로드(Push)를 시작합니다...")
         subprocess.run(["git", "-C", BLOG_DIR, "add", "."], check=True)
-        subprocess.run(["git", "-C", BLOG_DIR, "commit", "-m", f"Daily update with stable image: {today_str}"], check=True)
+        subprocess.run(["git", "-C", BLOG_DIR, "commit", "-m", f"Daily update with chat button: {today_str}"], check=True)
         subprocess.run(["git", "-C", BLOG_DIR, "push", "origin", "HEAD"], check=True)
-        print("✨ GitHub Pages 클라우드 서버에 성공적으로 배포되었습니다!")
-        
+        print("✨ GitHub Pages 클라우드 서버에 성공적으로 배포되었습니다!")        
+
     except Exception as e:
         print(f"❌ 포스팅 파일 저장 또는 Git 업로드 중 실패: {e}")
 
