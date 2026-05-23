@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 # 1. 설정 (정훈 님의 주소 및 키워드 제어)
 # ==========================================
 # 🌟 검색하고 싶은 키워드들을 적어줍니다.
-KEYWORDS = ["Warthunder", "AI", "Game"] 
+KEYWORDS = ["war", "game"] 
 
 # 🌟 여기에 "AND" 또는 "OR"를 입력하여 검색 방식을 언제든 바꿀 수 있습니다!
 KEYWORD_MODE = "AND"  
@@ -165,7 +165,7 @@ def post_to_jekyll(summary, papers, news, image_path, keywords_list, mode):
 
     # 🌟 [동적 문구 생성 구역] 정훈님이 설정한 키워드들을 이쁘게 문장으로 조립합니다.
     # 예시: "LLM, RAG (AND)"
-    keyword_tags = ", ".join(keywords_list) + f" ({mode})"
+    keyword_tags = ", ".join(keywords_list)
     dynamic_excerpt = f"오늘 {keyword_tags} 관련 주요 기술 논문과 뉴스를 전해드립니다."
 
     md_content = f"""---
