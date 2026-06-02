@@ -104,6 +104,7 @@ def fetch_google_news(keywords_list, mode):
     news = []
     
     joined_query = f" {mode} ".join([f'"{kw}"' for kw in keywords_list])
+    final_query = f"({joined_query}) when:2d"
     url = f"https://news.google.com/rss/search?q={urllib.parse.quote(joined_query)}&hl=ko&gl=KR&ceid=KR:ko"
     
     try:
