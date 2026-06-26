@@ -104,26 +104,40 @@ def fetch_google_news(keywords_list, mode):
     news = []
     
     joined_query = f" {mode} ".join([f'"{kw}"' for kw in keywords_list])
-    final_query = f"({joined_query}) when:2d"
     url = f"https://news.google.com/rss/search?q={urllib.parse.quote(joined_query)}&hl=ko&gl=KR&ceid=KR:ko"
+    
+    # 🌟 현재 시간 기준으로 2일(48시간) 전 마지노선 타임스탬프 계산
+    time_limit = datetime.now() - timedelta(days=2)
     
     try:
         feed = feedparser.parse(url)
-        for entry in feed.entries[:6]:
+        for entry in feed.entries:
+            # 뉴스의 실제 발행일 구조 정보 가져오기
+            # 구조가 없는 비정상 피드는 오늘 날짜로 대체 방어
+            pub_parsed = entry.get('published_parsed', time.localtime())
+            pub_date = datetime.fromtimestamp(time.mktime(pub_parsed))
+            
+            # 🌟 [물리 차단벽] 발행일이 현재 시간 기준 48시간 이전이면 수집 대상에서 과감히 제외!
+            if pub_date < time_limit:
+                continue
+                
             title = entry.title
-            link = entry.link
-            title = re.sub(r'\s-\s.*$', '', title)
+            title = re.sub(r'\s-\s.*$', '', title) # 언론사 이름 정리
             
             news.append({
                 "title": title,
                 "summary": title,
-                "url": link
+                "url": entry.link
             })
+            
+            # 상위 6개만 채워지면 루프 조기 종료
+            if len(news) >= 6:
+                break
+                
+        print(f"✅ 진짜 최신 뉴스만 검증하여 수집 완료 (총 {len(news)}건 수집됨)")
     except Exception as e:
         print(f"⚠️ 뉴스 수집 중 오류 발생: {e}")
-        
     return news
-
 # ==========================================
 # 5. LLM 요약 함수 (Gemma)
 # ==========================================
