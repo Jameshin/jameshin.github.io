@@ -50,43 +50,26 @@
       </script>
 
 
-
-      <!-- 1. 카카오 SDK 로드 -->
-      <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.2/kakao.min.js" integrity="sha384-0rrOC8CwI6U6w7CZ52TCD1dkZ62Gca1Ny67U66vy9A1670868f0C/08cI7Pdx4t0" crossorigin="anonymous"></script>
-      <script>
-        // 카카오 개발자 센터에서 발급받은 JavaScript 키가 있다면 여기에 입력합니다.
-        // 키가 없어도 아래의 채널ID 기반 간이 위젯은 작동할 수 있습니다.
-        if (typeof Kakao !== 'undefined') {
-          Kakao.init('YOUR_JAVASCRIPT_APP_KEY'); // (선택사항) 카카오 디벨로퍼스 앱 키
-        }
-      </script>
-      <!-- 2. 홈페이지 화면에 박히는 카카오 공식 1:1 채팅 동적 위젯 -->
-      <!-- 🌟 여기에 정훈님의 카톡 채널 ID 입력! (예: _abcde) -->
-      <div id="kakao-talk-channel-chat-button"
-        data-channel-public-id="_WqVfX"
-        data-title="consult"
-        data-size="large"
-        data-color="yellow"
-        data-shape="pc"
-        data-support-multiple-id="true"
-        style="position: fixed; bottom: 30px; right: 30px; z-index: 9999;">
+      <!-- ========================================== -->
+      <!-- 💬 정훈님의 카카오톡 실시간 1:1 상담 플로팅 버튼 -->
+      <!-- ========================================== -->
+      <div id="kakao-chat-button" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; cursor: pointer; transition: transform 0.2s;">
+        <a href="https://pf.kakao.com/_WqVfX/chat" target="_blank" title="실시간 1:1 카카오톡 상담">
+          <!-- 노란색 원형 카카오톡 아이콘 디자인 -->
+          <div style="background-color: #FEE500; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="#191919" viewBox="0 0 24 24">
+              <path d="M12 3c-4.97 0-9 3.185-9 7.115 0 2.502 1.63 4.71 4.14 5.922l-.995 3.655a.3.3 0 0 0 .43.324l4.312-2.863c.365.05.735.077 1.113.077 4.97 0 9-3.186 9-7.115S16.97 3 12 3z"/>
+            </svg>
+          </div>
+        </a>
       </div>
       
-      <script>
-        window.kakaoAsyncInit = function() {
-          Kakao.Channel.createChatButton({
-            container: '#kakao-talk-channel-chat-button',
-          });
-        };
-      
-        (function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = 'https://t1.kakaocdn.net/kakao_js_sdk/2.7.2/kakao.channel.min.js';
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'kakao-js-sdk'));
-      </script>
+      <style>
+        /* 마우스를 올렸을 때 버튼이 슥 커지는 이펙트 */
+        #kakao-chat-button:hover {
+          transform: scale(1.1);
+        }
+      </style>
       
     </section>
   </section>
