@@ -53,7 +53,13 @@
 
       <!-- 1. 카카오 SDK 로드 -->
       <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.2/kakao.min.js" integrity="sha384-0rrOC8CwI6U6w7CZ52TCD1dkZ62Gca1Ny67U66vy9A1670868f0C/08cI7Pdx4t0" crossorigin="anonymous"></script>
-    
+      <script>
+        // 카카오 개발자 센터에서 발급받은 JavaScript 키가 있다면 여기에 입력합니다.
+        // 키가 없어도 아래의 채널ID 기반 간이 위젯은 작동할 수 있습니다.
+        if (typeof Kakao !== 'undefined') {
+          Kakao.init('YOUR_JAVASCRIPT_APP_KEY'); // (선택사항) 카카오 디벨로퍼스 앱 키
+        }
+      </script>
       <!-- 2. 홈페이지 화면에 박히는 카카오 공식 1:1 채팅 동적 위젯 -->
       <div id="kakao-talk-channel-chat-button" 
            data-channel-public-id="_WqVfX" <!-- 🌟 여기에 정훈님의 카톡 채널 ID 입력! (예: _abcde) -->
