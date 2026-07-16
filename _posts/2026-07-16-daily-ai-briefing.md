@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "🤖 2026-07-16 AI & Tech Daily Briefing"
-date: 2026-07-16 14:12:40 +0900
-excerpt: "오늘 infectious disease, mathematical model (AND) 관련 주요 기술 논문과 뉴스를 Gemma4 에이전트가 완벽하게 분석하여 전해드립니다."
+title: "2026-07-16 AI & Tech Daily Briefing"
+date: 2026-07-16 14:26:11 +0900
+excerpt: "오늘 infectious disease, mathematical model (AND) 관련 주요 기술 논문과 뉴스를 Gemini 에이전트가 완벽하게 분석하여 전해드립니다."
 image: "/images/header-2026-07-16.jpg"
 ---
 
 ## 💡 오늘의 기술 핵심 요약
-Gemma 연결 실패: HTTPConnectionPool(host='127.0.0.1', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f839f9fe0e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+❌ Gemini API 호출 실패: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements.', 'status': 'NOT_FOUND'}}
 
 ---
 
@@ -36,4 +36,4 @@ Gemma 연결 실패: HTTPConnectionPool(host='127.0.0.1', port=11434): Max retri
 </div>
 
 <br>
-*본 브리핑 포스팅은 로컬 LLM(Gemma)과 자동화 에이전트를 통해 생성되었습니다.*
+*본 브리핑 포스팅은 구글 Gemini 에이전트와 자동화 스크립트를 통해 생성되었습니다.*
