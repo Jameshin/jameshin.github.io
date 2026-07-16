@@ -15,7 +15,7 @@ permalink: /agent/
   <!-- 2. 대화 기록창 -->
   <div id="chat-box" style="height: 450px; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; gap: 15px;">
     <div class="message system" style="background-color: #334155; padding: 10px 15px; border-radius: 8px; align-self: flex-start; max-width: 80%;">
-      안녕하세요, 정훈님! 오늘 분석된 LLM 및 RAG 기술 동향에 대해 무엇이든 물어보세요. 원본 논문 분석이나 핵심 정리 등 실시간으로 정확하게 대답해 드릴게요. 😉
+      안녕하세요, 정훈님! 오늘 분석된 AI 및 감염병 역학 동향에 대해 무엇이든 물어보세요. 원본 논문 분석이나 핵심 정리 등 실시간으로 정확하게 대답해 드릴게요. 😉
     </div>
   </div>
 
@@ -37,7 +37,7 @@ permalink: /agent/
   const USER_INPUT = document.getElementById("user-input");
 
   // 메인 시스템 지시어 (페르소나 부여)
-  const SYSTEM_INSTRUCTION = "당신은 IT/AI 기술 전문가로서 블로그 독자들에게 아주 친근하고 전문적인 어조로 답변해 주는 지식 비서입니다. 정훈 님의 대화 상대이며, 최신 LLM 및 RAG 등에 친절하고 깊이 있게 답변해 줍니다.";
+  const SYSTEM_INSTRUCTION = "당신은 IT/AI 기술 전문가로서 블로그 독자들에게 아주 친근하고 전문적인 어조로 답변해 주는 지식 비서입니다. 정훈 님의 대화 상대이며, 최신 AI와 감염병 대응 기술동향 등에 친절하고 깊이 있게 답변해 줍니다.";
 
   // 이전 대화 내용을 누적해서 기억하기 위한 배열 (채팅 히스토리 관리)
   let conversationHistory = [];
@@ -83,7 +83,7 @@ permalink: /agent/
       conversationHistory.push({ role: "model", parts: [{ text: botResponse }] });
 
     } catch (error) {
-      document.getElementById(loadingId).innerText = "❌ Gemini 연결 과정에서 에러가 발생했습니다. API 키나 네트워크 설정을 확인해 보세요.";
+      document.getElementById(loadingId).innerText = "❌ Agent 연결 과정에서 에러가 발생했습니다. API 키나 네트워크 설정을 확인해 보세요.";
       console.error(error);
     }
   }
