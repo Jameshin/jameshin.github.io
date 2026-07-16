@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2026-07-16 AI & Epidemiology Daily Briefing"
+title: "2026-07-16 Epidemiology Tech Daily Briefing"
 date: 2026-07-16 15:07:45 +0900
 excerpt: "오늘 infectious disease, mathematical model (AND) 관련 주요 기술 논문과 뉴스를 Gemini 에이전트가 완벽하게 분석하여 전해드립니다."
 image: "/images/header-2026-07-16.jpg"
