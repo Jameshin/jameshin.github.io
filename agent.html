@@ -1,0 +1,119 @@
+---
+layout: page
+title: "🤖 Cybernote AI Agent"
+permalink: /agent/
+---
+
+<div class="chat-container" style="max-width: 800px; margin: 0 auto; background-color: #1e293b; color: #f8fafc; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); overflow: hidden; font-family: sans-serif;">
+  
+  <!-- 1. 헤더 영역 -->
+  <div class="chat-header" style="background-color: #0f172a; padding: 15px 20px; border-bottom: 2px solid #deff9a; display: flex; align-items: center; justify-content: space-between;">
+    <h3 style="margin: 0; color: #deff9a; font-size: 18px;">💡 정훈님의 AI 지식 비서</h3>
+    <span style="font-size: 12px; background-color: #22c55e; color: white; padding: 3px 8px; border-radius: 10px; font-weight: bold;">Online (Gemini Cloud)</span>
+  </div>
+
+  <!-- 2. 대화 기록창 -->
+  <div id="chat-box" style="height: 450px; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; gap: 15px;">
+    <div class="message system" style="background-color: #334155; padding: 10px 15px; border-radius: 8px; align-self: flex-start; max-width: 80%;">
+      안녕하세요, 정훈님! 오늘 분석된 LLM 및 RAG 기술 동향에 대해 무엇이든 물어보세요. 원본 논문 분석이나 핵심 정리 등 실시간으로 정확하게 대답해 드릴게요. 😉
+    </div>
+  </div>
+
+  <!-- 3. 입력 창구 -->
+  <div class="chat-input-area" style="background-color: #0f172a; padding: 15px; display: flex; gap: 10px;">
+    <input type="text" id="user-input" placeholder="여기에 질문을 입력하세요..." style="flex: 1; padding: 12px; border-radius: 6px; border: 1px solid #475569; background-color: #1e293b; color: #f8fafc; font-size: 14px; outline: none;" onkeypress="if(event.keyCode==13) sendMessage()">
+    <button onclick="sendMessage()" style="background-color: #deff9a; color: #0f172a; border: none; padding: 12px 20px; border-radius: 6px; font-weight: bold; cursor: pointer; transition: 0.2s;">보내기</button>
+  </div>
+</div>
+
+<!-- ========================================== -->
+<!-- 🔮 Gemini API 연동 실시간 통신 스크립트 -->
+<!-- ========================================== -->
+<script>
+  // 🌟 구글 AI 스튜디오에서 발급받으신 API 키를 여기에 넣어주세요!
+  // (블로그 깃허브가 완전히 공개된 레포지토리라면, 남들이 사용하지 못하도록 API 키의 도메인 제한을 걸어두는 것을 권장합니다.)
+  const GEMINI_API_KEY = "AIzaSyD6lKPKEUkISaNMoaUf8fd2Ulfph1hBNBM"; 
+  const CHAT_BOX = document.getElementById("chat-box");
+  const USER_INPUT = document.getElementById("user-input");
+
+  // 메인 시스템 지시어 (페르소나 부여)
+  const SYSTEM_INSTRUCTION = "당신은 IT/AI 기술 전문가로서 블로그 독자들에게 아주 친근하고 전문적인 어조로 답변해 주는 지식 비서입니다. 정훈 님의 대화 상대이며, 최신 LLM 및 RAG 등에 친절하고 깊이 있게 답변해 줍니다.";
+
+  // 이전 대화 내용을 누적해서 기억하기 위한 배열 (채팅 히스토리 관리)
+  let conversationHistory = [];
+
+  async function sendMessage() {
+    const text = USER_INPUT.value.trim();
+    if (!text) return;
+
+    // 1. 내 대화창에 사용자가 적은 메시지 추가
+    appendMessage("user", text);
+    USER_INPUT.value = "";
+
+    // 2. 대기 메시지 (로딩 효과) 노출
+    const loadingId = appendMessage("system", "생각 중...");
+
+    // 3. Gemini API 통신 패킷 조립
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+    
+    // 히스토리에 내 질문 추가
+    conversationHistory.push({ role: "user", parts: [{ text: text }] });
+
+    const payload = {
+      contents: conversationHistory,
+      systemInstruction: {
+        parts: [{ text: SYSTEM_INSTRUCTION }]
+      }
+    };
+
+    try {
+      const response = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+
+      const data = await response.json();
+      const botResponse = data.candidates[0].content.parts[0].text;
+
+      // 4. 로딩 메시지를 실제 답변으로 교체
+      document.getElementById(loadingId).innerText = botResponse;
+
+      // 히스토리에 Gemini 대답 누적 (다음 대화에서 맥락을 기억하게 만듬)
+      conversationHistory.push({ role: "model", parts: [{ text: botResponse }] });
+
+    } catch (error) {
+      document.getElementById(loadingId).innerText = "❌ Gemini 연결 과정에서 에러가 발생했습니다. API 키나 네트워크 설정을 확인해 보세요.";
+      console.error(error);
+    }
+  }
+
+  // 화면에 메시지 말풍선을 그려주는 헬퍼 함수
+  function appendMessage(sender, text) {
+    const msgId = "msg-" + Date.now();
+    const msgDiv = document.createElement("div");
+    msgDiv.id = msgId;
+    msgDiv.style.padding = "10px 15px";
+    msgDiv.style.borderRadius = "8px";
+    msgDiv.style.maxWidth = "80%";
+    msgDiv.style.whiteSpace = "pre-wrap";
+    msgDiv.style.lineHeight = "1.5";
+    msgDiv.style.fontSize = "14px";
+
+    if (sender === "user") {
+      msgDiv.style.backgroundColor = "#deff9a";
+      msgDiv.style.color = "#0f172a";
+      msgDiv.style.alignSelf = "flex-end";
+    } else {
+      msgDiv.style.backgroundColor = "#334155";
+      msgDiv.style.color = "#f8fafc";
+      msgDiv.style.alignSelf = "flex-start";
+    }
+
+    msgDiv.innerText = text;
+    CHAT_BOX.appendChild(msgDiv);
+    CHAT_BOX.scrollTop = CHAT_BOX.scrollHeight; // 스크롤을 항상 최하단으로
+
+    return msgId;
+  }
+</script>
