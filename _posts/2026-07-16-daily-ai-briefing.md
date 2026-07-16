@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "🤖 2026-07-16 AI & Tech Daily Briefing"
-date: 2026-07-16 14:01:51 +0900
+date: 2026-07-16 14:06:13 +0900
 excerpt: "오늘 infectious disease, mathematical model (AND) 관련 주요 기술 논문과 뉴스를 Gemma4 에이전트가 완벽하게 분석하여 전해드립니다."
 image: "/images/header-2026-07-16.jpg"
 ---
 
 ## 💡 오늘의 기술 핵심 요약
-Gemma 연결 실패: HTTPConnectionPool(host='127.0.0.1', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f84a545e080>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Gemma 연결 실패: HTTPConnectionPool(host='127.0.0.1', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7067b9ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 ---
 
