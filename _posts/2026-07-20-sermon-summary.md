@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "📖 [성경공방] 박영선 목사  왜 그냥 내버려 두시는가  실패를 지우지 않으시는 하나님"
-date: 2026-07-20 17:02:49 +0900
+date: 2026-07-20 17:08:17 +0900
 excerpt: "[성경공방] '박영선 목사 | 왜 그냥 내버려 두시는가 | 실패를 지우지 않으시는 하나님' 말씀의 핵심 요약과 깊이 있는 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-20.jpg"
 ---
 
-❌ Gemini 요약 실패: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements.', 'status': 'NOT_FOUND'}}
+❌ Gemini 요약 실패: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
 
 ---
 
