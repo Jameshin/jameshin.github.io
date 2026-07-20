@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 [성경공방] 박영선목사 안 친하면 매달리게 된다 shorts"
+title: "📖 박영선목사 안 친하면 매달리게 된다"
 date: 2026-07-20 17:22:49 +0900
 excerpt: "'#박영선목사 안 친하면 매달리게 된다 #shorts' 말씀의 핵심과 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-20.jpg"
