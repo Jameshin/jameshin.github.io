@@ -1,79 +1,65 @@
 ---
 layout: post
-title: "📖 박영선목사 안 친하면 매달리게 된다"
-date: 2026-07-20 17:22:49 +0900
-excerpt: "'#박영선목사 안 친하면 매달리게 된다 #shorts' 말씀의 핵심과 묵상 포인트를 전해드립니다."
+title: "📖 안 친하면 매달리게 된다 shorts"
+date: 2026-07-20 17:39:03 +0900
+excerpt: "'안 친하면 매달리게 된다 shorts' 말씀의 한글/영어 핵심 요약과 깊이 있는 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-20.jpg"
 ---
 
-안녕하세요, 사랑하는 믿음의 동역자 여러분. 
-
-우리는 살아가면서 간절한 소망이 생길 때마다 무릎을 꿇고 기도의 자리로 나아갑니다. 그리고 종종 주변에서 "정말 간절히 기도했더니 하나님이 들어주셨어"라는 간증을 듣기도 합니다. 
-
-하지만 때로는 그 '간절함'이라는 단어가 우리에게 보이지 않는 짐이 되곤 합니다. '내가 정성이 부족해서 응답받지 못하는 걸까?', '더 피눈물 나게 매달려야 하는 걸까?'라며 스스로를 다그치기도 하지요. 
-
-오늘 소개해 드릴 박영선 목사님의 설교는, 우리가 가진 기도에 대한 해묵은 오해를 깨뜨리고 하나님과의 참된 관계로 우리를 초대합니다. 차분한 마음으로 기도의 본질을 깊이 묵상하는 시간이 되시기를 소망합니다.
-
----
+--- Part 1: 한국어 요약 ---
 
 ### 📖 오늘의 설교 핵심 주제
+기도는 하나님을 조종하거나 지극정성으로 감동시켜 원하는 것을 얻어내는 종교적 행위가 아닙니다. 참된 기도는 하나님과의 친밀한 관계 속에서 우리의 다급함과 필요가 전달되는 신뢰의 소통입니다. 설교자는 갈멜산의 대결을 통해 간절함이 응답을 받아내는 조건이 아니라, 이미 맺어진 친밀한 관계의 증거임을 일깨워 줍니다.
 
-> **"간절함은 응답의 조건이 아니라, 하나님과 나 사이의 친밀한 관계입니다."**
+### 💡 이 말씀에서 기억할 3가지 핵심 포인트
+1. **기도는 협상의 도구가 아닌 '관계'입니다**  
+   이방 제사장들처럼 몸을 상하게 하며 매달리는 정성이 응답을 결정하는 것이 아닙니다. 하나님과 나 사이에 맺어진 친밀한 자녀 관계가 기도의 본질입니다.
+2. **중언부언과 인간의 공로를 내려놓으십시오**  
+   "내가 간절히 기도했더니 이루어졌다"는 자기 공로 의식을 버려야 합니다. 기도의 초점은 나의 열심이 아니라 기도를 들으시는 하나님의 은혜에 있어야 합니다.
+3. **우리의 다급함을 아시는 아버지를 신뢰하십시오**  
+   기도는 하나님을 설득하는 고역이 아니라, 자녀의 다급한 부르짖음에 기꺼이 귀를 기울이시고 불로 응답하시는 신실하신 하나님 아버지와의 대화입니다.
 
-갈멜산 위에서 바알의 제사장 850명은 하루 종일 몸에 피를 흘려가며 자신들의 신을 불렀지만 아무런 응답도 받지 못했습니다. 반면, 엘리야는 담담히 하나님을 불렀을 때 하늘에서 불이 내려왔습니다. 
-
-기도는 내 정성과 열심으로 신을 감동시켜 원하는 것을 얻어내는 '방법론'이나 '종교적 거래'가 아닙니다. 기도는 이미 나를 사랑하시는 아버지 하나님께 내 다급함과 마음을 털어놓는 '사랑의 관계'입니다. 하나님과 친하지 않으면 매달리는 '방법'에 집착하게 되지만, 친밀한 자녀는 그저 아버지의 이름을 부르는 것만으로도 충분합니다.
-
----
-
-### 💡 이 설교에서 기억할 3가지 말씀 포인트
-
-#### 1. 기도는 거래가 아닌 '관계'입니다
-우상을 섬기는 이들의 특징은 신의 마음을 움직이기 위해 인간의 열심을 바쳐야 한다는 것입니다. 바알 제사장들이 몸에 상처를 내며 울부짖은 이유가 바로 여기에 있습니다. 그러나 우리 아버지는 우리의 피 흘림이나 고행을 조건으로 응답하시는 분이 아닙니다. 기도는 하나님과 나 사이에 맺어진 깊은 사랑의 관계 안에서 이루어지는 대화입니다.
-
-#### 2. '중언부언'은 관계의 부재에서 나옵니다
-예수님께서 경계하신 '중언부언하는 기도'는 단지 같은 말을 반복하는 것만을 의미하지 않습니다. 하나님이 어떤 분이신지 모른 채, '내가 이만큼 정성을 들여야 들으시겠지' 하며 불안한 마음으로 말을 많이 하는 외식적인 태도를 뜻합니다. 하나님 아버지는 우리가 구하기 전에 이미 우리에게 필요한 것을 아시는 분임을 신뢰하는 것이 기도의 시작입니다.
-
-#### 3. "간절히 했더니 됐다"라는 말을 내려놓으십시오
-"내가 간절히 기도했기 때문에 응답받았다"는 고백은 자칫 기도의 주체와 공로를 '나의 열심'으로 돌리기 쉽습니다. 기도가 응답된 것은 나의 간절함이라는 자격 때문이 아니라, 나의 다급한 부르짖음에 귀를 기울이시는 '하나님의 자비하심' 때문입니다. 기도의 초점을 나의 태도에서 하나님의 신실하심으로 옮겨야 합니다.
+### 🙏 오늘의 묵상과 기도
+* **묵상 질문**: 나는 하나님을 친밀한 아버지로 신뢰하며 나아가고 있습니까, 아니면 내 정성과 간절함의 크기로 응답을 받아내려 애쓰고 있습니까?
+* **기도**: 주님, 기도를 나의 열심과 정성으로 하나님을 설득하려는 수단으로 삼지 않게 하소서. 이미 나를 사랑하시는 아버지 품 안에서, 친밀한 관계가 주는 참된 평안과 기도의 기쁨을 누리게 하옵소서. 예수님의 이름으로 기도합니다. 아멘.
 
 ---
 
-### 🕊️ 기도 및 오늘의 묵상 질문
+--- Part 2: English Summary ---
 
-**[오늘의 묵상 질문]**
-1. 나는 혹시 하나님을 설득하기 위해, 혹은 내 정성을 증명하기 위해 불안한 마음으로 기도하고 있지는 않나요?
-2. 엘리야처럼, 하나님의 살아계심과 나를 향하신 사랑을 온전히 신뢰하며 담대히 그분의 이름을 부르고 있나요?
+### 📖 Key Theme of Today's Sermon
+Prayer is not a religious transaction or a methodology to move God through sheer desperation to earn a reward. True prayer is a communion of trust born out of a close relationship, where our urgency is naturally conveyed to our Father. The preacher reminds us through the Mount Carmel event that earnestness is not a bargaining chip to extract answers, but a reflection of our security in Him.
 
-**[오늘의 기도]**
-사랑과 자비의 하나님 아버지,
-그동안 기도를 내 열심과 정성으로 하나님을 감동시키려는 도구로 여겼던 연약함을 용서해 주옵소서. 
-내가 얼마나 간절했는가보다, 하나님이 나를 얼마나 사랑하시는 아버지가 되시는지를 먼저 바라보게 하옵소서. 
-오늘도 내 삶의 다급함과 아픔을 들고 나아갈 때, 불안함으로 중언부언하지 않고 오직 아버지를 신뢰함으로 평안을 누리는 참된 기도의 사람이 되게 하여 주옵소서. 
-예수님의 이름으로 기도드립니다. 아멘.
+### 💡 3 Key Points to Remember
+1. **Prayer is 'Relationship', Not a Tool for Negotiation**  
+   Like the pagan prophets who desperately cried out and harmed themselves to get a response, we often mistake our striving for the key to answered prayer. True prayer flows simply and deeply from our relationship with God.
+2. **Lay Down Repetitive Babbling and Human Merit**  
+   We must abandon the self-righteous mindset of "it happened because I prayed so earnestly." Instead, our focus should remain entirely on the sovereign grace of the One who hears us.
+3. **Trust the Father Who Knows Your Urgency**  
+   Prayer is not a pagan ritual to appease a distant deity, but a heartfelt conversation with a faithful Father who eagerly listens and responds to His beloved children’s urgent cries.
+
+### 🙏 Today's Meditation & Prayer
+* **Meditation Question**: Am I approaching God with the simple trust of a child, or am I trying to force His hand through the sheer intensity of my own earnestness?
+* **Prayer**: Lord, deliver me from treating prayer as a performance to persuade You. May I rest in Your loving embrace, experiencing the true peace and joy of conversing with a Heavenly Father who already knows and loves me. In Jesus' name, Amen.
 
 ---
-**▶ 전체 설교는 유튜브 채널 '성경공방'에서 확인하실 수 있습니다.**
-오늘도 주님의 세밀한 음성에 귀 기울이며, 친밀한 교제 속에서 평안을 누리는 복된 하루가 되시기를 축복합니다.
 
----
-
-### 🎬 원본 설교 영상 보기
-- **설교 제목:** [#박영선목사 안 친하면 매달리게 된다 #shorts](https://www.youtube.com/watch?v=pbr_WA5hqws)
-- **원본 영상 게시일:** 2026-07-09
+### 🎬 원본 설교 영상 보기 (Original Video)
+- **설교 제목 (Title):** [안 친하면 매달리게 된다 shorts](https://www.youtube.com/watch?v=pbr_WA5hqws)
+- **게시일 (Date):** 2026-07-09
 
 ---
 
 <div style="background-color: #1e293b; border-left: 5px solid #deff9a; padding: 20px; border-radius: 8px; margin-top: 40px; color: #f8fafc;">
-    <h4 style="margin-top: 0; color: #deff9a; font-size: 18px;">🤖 AI 말씀 비서와 대화해 보세요!</h4>
+    <h4 style="margin-top: 0; color: #deff9a; font-size: 18px;">🤖 정훈님의 AI 말씀 지식 비서와 대화해 보세요! (Chat with AI)</h4>
     <p style="font-size: 14px; color: #cbd5e1; margin-bottom: 15px;">
-        오늘 소개된 <strong>#박영선목사 안 친하면 매달리게 된다 #shorts</strong> 말씀이나 관련 성경 구절에 대해 더 깊은 궁금점이나 묵상을 나누고 싶으신가요? 
-        지금 실시간으로 대화할 수 있는 AI 말씀 비서와 직접 질문을 나누어 보세요!
+        오늘 소개된 <strong>안 친하면 매달리게 된다 shorts</strong> 말씀이나 관련 성경 구절에 대해 더 깊은 궁금점이나 묵상을 나누고 싶으신가요? 
+        실시간으로 대화할 수 있는 AI 말씀 비서와 직접 질문을 나누어 보세요!
     </p>
     <a href="/agent/" style="display: inline-block; background-color: #deff9a; color: #0f172a; font-weight: bold; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.3s;">
-        👉 AI 말씀 에이전트와 실시간 채팅하기
+        👉 AI 말씀 비서와 실시간 채팅하기
     </a>
 </div>
 
 <br>
-*본 설교 요약 포스팅은 구글 Gemini 에이전트와 자동화 스크립트를 통해 생성되었습니다.*
+*본 설교 요약 포스팅은 구글 Gemini 에이전트와 자동화 스크립트를 통해 생성 되었습니다.*
