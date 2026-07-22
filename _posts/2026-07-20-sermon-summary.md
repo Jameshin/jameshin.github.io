@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "📖 아브라함이 될 필요 없다   명설교 | You Dont Have to Be Abraham"
+title: "📖 아브라함이 될 필요 없다 | You Dont Have to Be Abraham"
 date: 2026-07-20 18:31:57 +0900
-excerpt: "'아브라함이 될 필요 없다   명설교' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'아브라함이 될 필요 없다' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-20.jpg"
 ---
 
---- Part 1: 한국어 말씀 전문 정돈 ---
+--- Part 1: 한국어 말씀 ---
 
 ### 📖 오늘의 설교: 아브라함이 될 필요가 없습니다
 

@@ -1,27 +1,42 @@
 ---
-layout: page
-title: "🤖 Cybernote AI Agent"
+layout: null
 permalink: /agent/
 ---
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agent</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0f172a;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+    </style>
+</head>
+<body>
 
 <div class="chat-container" style="max-width: 800px; margin: 0 auto; background-color: #1e293b; color: #f8fafc; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); overflow: hidden; font-family: sans-serif;">
   
   <!-- 1. 헤더 영역 -->
   <div class="chat-header" style="background-color: #0f172a; padding: 15px 20px; border-bottom: 2px solid #deff9a; display: flex; align-items: center; justify-content: space-between;">
-    <h3 style="margin: 0; color: #deff9a; font-size: 18px;">💡 정훈님의 AI 말씀 공부 비서</h3>
+    <h3 style="margin: 0; color: #deff9a; font-size: 18px;">💡 여러분의 AI 말씀 공부 비서</h3>
     <span style="font-size: 12px; background-color: #22c55e; color: white; padding: 3px 8px; border-radius: 10px; font-weight: bold;">Online (Gemini Cloud)</span>
   </div>
 
   <!-- 2. 대화 기록창 -->
   <div id="chat-box" style="height: 450px; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; gap: 15px;">
     <div class="message system" style="background-color: #334155; padding: 10px 15px; border-radius: 8px; align-self: flex-start; max-width: 80%;">
-      안녕하세요, 정훈님! 오늘 AI 말씀 에이전트가 선물해준 한 구절 대해 무엇이든 물어보세요. 사랑을 담아 대화해 드릴게요. 😉
+      안녕하세요, 형제/자매님! 오늘 AI 말씀 에이전트가 선물해준 한 구절 대해 무엇이든 물어보세요. 사랑을 담아 대화해 드릴게요. 😉
     </div>
   </div>
 
   <!-- 3. 입력 창구 -->
   <div class="chat-input-area" style="background-color: #0f172a; padding: 15px; display: flex; gap: 10px;">
-    <input type="text" id="user-input" placeholder="여기에 질문을 입력하세요..." style="flex: 1; padding: 12px; border-radius: 6px; border: 1px solid #475569; background-color: #1e293b; color: #f8fafc; font-size: 14px; outline: none;" onkeypress="if(event.keyCode==13) sendMessage()">
+    <input type="text" id="user-input" placeholder="여기에 묵상을 써보세요..." style="flex: 1; padding: 12px; border-radius: 6px; border: 1px solid #475569; background-color: #1e293b; color: #f8fafc; font-size: 14px; outline: none;" onkeypress="if(event.keyCode==13) sendMessage()">
     <button onclick="sendMessage()" style="background-color: #deff9a; color: #0f172a; border: none; padding: 12px 20px; border-radius: 6px; font-weight: bold; cursor: pointer; transition: 0.2s;">보내기</button>
   </div>
 </div>
