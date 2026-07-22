@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "📖 20년 넘게 걸렸습니다 2026년 설교 중 | It Took Over 20 Years (From the 2026 Sermon)"
+title: "📖 20년 넘게 걸렸습니다 | It Took Over 20 Years"
 date: 2026-07-22 09:39:44 +0900
-excerpt: "'20년 넘게 걸렸습니다 2026년 설교 중' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'20년 넘게 걸렸습니다 ' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-22.jpg"
 ---
 
@@ -78,7 +78,7 @@ Heavenly Father, forgive me for my impatience and for trying to live by my own s
 
 ### 🎬 원본 설교 영상 보기 (Original Video)
 - **설교 채널 (Channel):** 성경공방
-- **설교 제목 (Title):** [20년 넘게 걸렸습니다 2026년 설교 중](https://www.youtube.com/watch?v=9c6ak7vSuqo)
+- **설교 제목 (Title):** 20년 넘게 걸렸습니다(https://www.youtube.com/watch?v=9c6ak7vSuqo)
 - **게시일 (Date):** 2026-07-21
 
 ---
@@ -89,7 +89,7 @@ Heavenly Father, forgive me for my impatience and for trying to live by my own s
         🤖 AI 말씀공부 에이전트와 바로 대화해 보세요!
     </h4>
     <p style="font-size: 14px; color: #cbd5e1; margin-bottom: 20px; line-height: 1.6;">
-        오늘 소개된 '20년 넘게 걸렸습니다 2026년 설교 중' 말씀이나 관련 성경 구절에 대해 궁금한 점이 있으신가요? 
+        오늘 소개된 '20년 넘게 걸렸습니다' 말씀이나 관련 성경 구절에 대해 궁금한 점이 있으신가요? 
         아래 채팅창에서 대화로 묵상을 나누어 보아요!
     </p>
     
