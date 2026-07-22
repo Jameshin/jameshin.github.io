@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "📖 짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란 | What Separates Us from the Beasts? God’s Relentless Will and the Essence of Faith"
-date: 2026-07-22 09:21:48 +0900
-excerpt: "'짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+title: "📖 20년 넘게 걸렸습니다 2026년 설교 중 | It Took Over 20 Years (From the 2026 Sermon)"
+date: 2026-07-22 09:39:44 +0900
+excerpt: "'20년 넘게 걸렸습니다 2026년 설교 중' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-22.jpg"
 ---
 
@@ -10,34 +10,36 @@ image: "/images/header-2026-07-22.jpg"
 
 ### 📖 오늘의 설교
 
-우리는 세상을 살아가며 종종 "인간이 짐승과 다른 점이 무엇인가?"라는 질문을 마주하곤 합니다. 하루하루 생존을 위해 발버둥 치고, 본능과 감정에 이끌려 반응하며, 누군가 나를 공격하면 똑같이 맞받아치는 삶의 태도는 어쩌면 약육강식의 야생 속 짐승들의 모습과 크게 다르지 않을지도 모릅니다. 
+우리는 흔히 신앙생활을 시작하면 모든 것이 금세 변화되고, 우리의 성품이나 삶의 문제가 단번에 해결되기를 기대합니다. 하지만 하나님의 시간표는 우리의 조급함과 다를 때가 많습니다. 오늘 전해드릴 말씀 속에서 설교자님은 한 평생 복음을 전하고 교회를 섬기며 깨달은 깊은 영적 진실을 고백합니다. 바로 "내가 깨어지고, 온전히 하나님만을 의지하는 법을 배우는 데 20년이 넘는 세월이 걸렸다"는 고백입니다.
 
-오늘 목사님은 이 날카로운 질문을 통해, 우리의 본질과 우리를 향한 하나님의 일하심이 무엇인지를 깊이 있게 조명하십니다. 세상의 교육과 훈련은 대개 '조건화'에 초점을 맞춥니다. 잘하면 보상을 주고, 잘못하면 벌을 주는 방식입니다. 이는 동물을 길들이는 방식과 유사합니다. 그러나 하나님께서 우리를 다루시는 방식은 결코 이와 같지 않습니다. 하나님은 우리를 단순히 길들여진 존재, 본능에 따라 움직이는 존재로 내버려 두지 않으십니다.
+우리가 처음 예수를 믿거나 주의 일을 시작할 때, 우리는 뜨거운 열정과 자신만만한 의욕을 가지고 나아갑니다. 내 힘과 지혜로 교회를 잘 섬길 수 있을 것 같고, 내 열심으로 세상을 변화시킬 수 있을 것만 같습니다. 그러나 그것은 때로 하나님을 향한 열정이기보다, 아직 깨어지지 않은 '나의 자아'와 '나의 의'일 때가 많습니다. 내 힘이 잔뜩 들어가 있는 상태에서는 하나님의 온전한 일하심을 경험하기 어렵습니다. 
 
-여기에 바로 기독교 신앙의 핵심인 '하나님의 열심'과 '하나님의 의지'가 존재합니다. 하나님께서는 진토와 같고 짐승처럼 반응하는 우리를 택하셔서, 그분의 거룩한 자녀로 빚어가기로 작정하셨습니다. 우리의 구원과 성화는 우리의 결단이나 본능적 본성에 달려 있지 않습니다. 우리가 넘어지고, 실패하고, 짐승처럼 울부짖는 순간에도 우리를 포기하지 않으시는 하나님의 집요하고도 거룩한 '열심'이 우리를 붙들고 계십니다.
+하나님께서는 우리를 사용하시기 전에 반드시 거치게 하시는 과정이 있습니다. 바로 '자기 부인'과 '내 힘을 빼는 과정'입니다. 모세가 광야에서 40년을 보낸 후에야 쓰임 받았고, 요셉과 다윗 역시 긴 기다림의 터널을 지나야 했던 것처럼, 우리 삶에도 영적 광야의 시간이 필요합니다. 설교자님은 고백합니다. 내 안의 혈기와 고집, 내 뜻대로 하려는 욕심이 무너지고, "나는 아무것도 아니요, 오직 주님만이 나의 모든 것 되십니다"라는 고백이 삶의 진짜 고백이 되기까지 20년이라는 혹독하고도 은혜로운 시간이 걸렸다고 말입니다.
 
-그렇다면 진정한 '믿음'이란 무엇일까요? 믿음은 내 확신이나 강함의 증명이 아닙니다. 오히려 내 본능과 한계를 인정하고, 나를 끊임없이 빚어가시는 하나님의 주권적인 손길에 나 자신을 굴복시키는 것입니다. 내가 내 인생의 주인 되어 본능대로 살아가는 짐승의 삶에서 벗어나, 하나님의 손에 붙들린 인격적인 존재로 서는 것, 그것이 바로 하나님이 우리에게 선물하신 믿음의 여정입니다. 오늘 하루, 나를 포기하지 않으시는 하나님의 신실한 열심을 신뢰하며, 그분의 자녀다운 존귀한 걸음을 내딛으시기를 소망합니다.
+사랑하는 성도 여러분, 혹시 지금 삶의 정체기를 지나고 계시거나, 오랜 기다림 속에서 낙심하고 계시지는 않습니까? "왜 이렇게 변화가 더딜까?", "왜 내 기도는 금방 응답되지 않을까?" 하며 조급해하고 계시다면 안심하십시오. 하나님은 지금 당신을 버려두신 것이 아니라, 가장 아름다운 신앙의 인격으로 빚어가시는 중입니다. 20년이 걸려 마침내 정금같이 나온 그 믿음처럼, 오늘 우리에게 허락된 이 기다림의 시간은 하나님의 가장 큰 축복이자 은혜의 통로입니다. 내 힘을 빼고 주님의 손에 온전히 나를 맡겨드리는 복된 하루가 되시기를 소망합니다.
 
-<br>
+---
 
 ### 💡 이 말씀에서 기억할 3가지 핵심 포인트
 
-1. **본능적 반응을 넘어선 인격적 부르심**  
-   세상은 보상과 처벌이라는 동물적 방식으로 사람을 길들이려 하지만, 하나님은 우리를 인격적인 관계 속에서 그분의 거룩한 형상으로 빚어가십니다.
-2. **포기하지 않으시는 '하나님의 열심'**  
-   우리의 구원과 성장은 우리의 어떠함에 달린 것이 아니라, 우리의 실패 속에서도 끊임없이 일하시는 하나님의 의지와 열심에 기초합니다.
-3. **참된 믿음은 '나의 주권'을 내려놓는 것**  
-   믿음은 내 힘과 확신을 자랑하는 것이 아니라, 나의 연약함을 고백하고 나를 인도하시는 하나님의 주권을 온전히 신뢰하며 항복하는 것입니다.
+1. **신앙의 성숙은 단번에 이루어지지 않으며, 하나님의 '시간'이 필요합니다.**  
+   조급함을 내려놓고, 우리를 매일 조금씩 빚어가시는 하나님의 신실한 손길을 신뢰해야 합니다.
 
-<br>
+2. **참된 영성은 '내 힘을 빼고' 주님을 온전히 의지하는 데서 시작됩니다.**  
+   내 지혜와 열정보다 주님의 주권을 인정하며, 나 자신을 비워내는 '자기 부인'이 필요합니다.
+
+3. **기다림과 광야의 시간은 낭비가 아닌, 가장 깊은 은혜의 훈련소입니다.**  
+   하나님께서 우리를 낮추시는 시간은 우리를 가장 존귀하게 쓰시기 위한 하나님의 세심한 배려입니다.
+
+---
 
 ### 🙏 오늘의 묵상과 기도
 
 **[한 줄 묵상 질문]**  
-나는 오늘 내 감정과 환경에 본능적으로 반응하며 살아가고 있습니까, 아니면 나를 하나님의 자녀로 빚어가시는 하나님의 손길을 신뢰하며 반응하고 있습니까?
+"지금 내 힘과 생각으로 무리하게 움켜쥐고 있는 것은 무엇인가요? 그것을 하나님 앞에 내려놓기 위해 오늘 내가 해야 할 포기는 무엇입니까?"
 
 **[기도문]**  
-사랑의 하나님, 본능과 눈앞의 환경에 지배당하며 짐승처럼 살아갈 수밖에 없던 저를 택하사, 존귀한 자녀 삼아주심에 감사드립니다. 때로 나의 연약함과 실패로 낙심할 때에도 저를 결코 포기하지 않으시는 '하나님의 열심'을 신뢰하게 하소서. 오늘도 내 힘을 빼고 하나님의 신실하신 주권 앞에 온전히 순종하며, 주님의 성품을 닮아가는 거룩한 하루가 되게 하여 주옵소서. 예수님의 이름으로 기도드립니다. 아멘.
+사랑의 하나님, 나의 조급함을 내려놓고 주님의 완전하신 타이밍을 신뢰하기 원합니다. 내 열심과 교만으로 일하려 했던 지난날을 회개합니다. 나를 깨뜨리시고 빚으시는 광야의 시간이 길어질지라도, 그 안에서 나와 함께하시는 주님의 깊은 사랑을 경험하게 하소서. 마침내 "나는 아무것도 아니며, 주님만이 나의 전부이십니다"라고 고백하는 성숙한 믿음의 사람이 되게 하여 주옵소서. 예수님의 이름으로 기도드립니다. 아멘.
 
 ---
 
@@ -45,36 +47,38 @@ image: "/images/header-2026-07-22.jpg"
 
 ### 📖 Key Theme of Today's Sermon
 
-What sets human beings apart from animals? If we only live driven by survival instincts, self-defense, and immediate reactions, we are no different from beasts of the wild. 
+This sermon gently reminds us that true spiritual maturity and the breaking of one's ego cannot be rushed; indeed, it often takes decades of walking through the wilderness. The preacher humbly shares a personal confession: it took more than 20 years of trials, waiting, and pastoral ministry to truly empty himself and learn to rely solely on God. 
 
-In this sermon, the preacher highlights that while the world conditions people through reward and punishment—much like training animals—God treats us as relational, personal beings. The cornerstone of our faith is "God's Relentless Zeal" (하나님의 열심). God does not abandon us to our instinctual, broken nature. Instead, His sovereign will and stubborn love pursue us through our failures to mold us into the image of His Son. True faith is not our own strength or confidence; it is the ultimate surrender of our self-will to the shaping hands of a faithful God.
+We often start our faith journey full of self-confidence and personal zeal, mistakenly believing that our strength can accomplish God's work. However, God takes us through a long refining process to strip away our self-righteousness. Just as Biblical giants like Moses and Joseph endured decades of waiting, our periods of delay and spiritual dryness are not wasted time. They are God's grace in disguise, teaching us to say, "I am nothing, and God is everything." We are encouraged to trust God's slow, perfect timing and surrender our control to Him.
 
-<br>
+---
 
 ### 💡 3 Key Points to Remember
 
-1. **A Personal Calling Beyond Instinct**  
-   Unlike the world that conditions us through fear and reward, God invites us into a deep, personal relationship to restore His holy image within us.
-2. **The Relentless Zeal of God**  
-   Our salvation and spiritual maturity do not depend on our human efforts, but on the unwavering will and relentless zeal of God who never gives up on us.
-3. **True Faith as Holy Surrender**  
-   Faith is not boasting in our own strength, but acknowledging our weakness and entirely yielding our lives to God’s sovereign and loving guidance.
+1. **Spiritual Maturity Requires Time and Patience**  
+   True transformation is a lifelong process of being refined in God’s hands, not an overnight event.
 
-<br>
+2. **The Power of Self-Denial and Emptying Ourselves**  
+   God works mightily not through our human strength, but when we completely empty ourselves of pride and surrender to Him.
+
+3. **The Wilderness is a Place of Deep Grace, Not Punishment**  
+   The long seasons of waiting and refining are divine opportunities where God prepares our hearts to be used for His greater purpose.
+
+---
 
 ### 🙏 Today's Meditation & Prayer
 
 **[Meditation Question]**  
-Am I reacting to my daily circumstances based on animalistic survival instincts, or am I responding with trust in the hands of God who is shaping my character?
+"Is there an area in your life where you are rushing ahead of God? How can you practice letting go and trusting His perfect timing today?"
 
 **[Prayer]**  
-Father God, thank You for calling me Your precious child and lifting me above my beastly instincts. When I fail and feel discouraged, help me to lean on Your relentless zeal that never lets me go. Teach me to surrender my control and trust Your sovereign hand today, so that my life may reflect Your holiness and love. In Jesus' name, Amen.
+Heavenly Father, forgive me for my impatience and for trying to live by my own strength. Teach me to embrace the seasons of waiting and refining, knowing that You are shaping my character. Help me to empty myself daily, so that Your grace and power may be fully revealed in my weakness. May my life truly confess that You are my everything. In Jesus' name, Amen.
 
 ---
 
 ### 🎬 원본 설교 영상 보기 (Original Video)
 - **설교 채널 (Channel):** 성경공방
-- **설교 제목 (Title):** [짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란](https://www.youtube.com/watch?v=wFATesO-pRI)
+- **설교 제목 (Title):** [20년 넘게 걸렸습니다 2026년 설교 중](https://www.youtube.com/watch?v=9c6ak7vSuqo)
 - **게시일 (Date):** 2026-07-21
 
 ---
@@ -85,7 +89,7 @@ Father God, thank You for calling me Your precious child and lifting me above my
         🤖 AI 말씀공부 에이전트와 바로 대화해 보세요!
     </h4>
     <p style="font-size: 14px; color: #cbd5e1; margin-bottom: 20px; line-height: 1.6;">
-        오늘 소개된 '짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란' 말씀이나 관련 성경 구절에 대해 궁금한 점이 있으신가요? 
+        오늘 소개된 '20년 넘게 걸렸습니다 2026년 설교 중' 말씀이나 관련 성경 구절에 대해 궁금한 점이 있으신가요? 
         아래 채팅창에서 대화로 묵상을 나누어 보아요!
     </p>
     
