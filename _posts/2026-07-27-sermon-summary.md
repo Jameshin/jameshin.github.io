@@ -1,84 +1,82 @@
 ---
 layout: post
-title: "📖 치명적인 실수 | A Fatal Misstep"
-date: 2026-07-27 09:42:06 +0900
-excerpt: "'치명적인 실수' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+title: "📖 짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란 | Beyond the Beasts: God’s Relentless Zeal and the Essence of Faith"
+date: 2026-07-27 09:52:06 +0900
+excerpt: "'짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-27.jpg"
 ---
 
 --- Part 1: 한국어 말씀 ---
 
-### 📖 오늘의 설교: 우리가 영적으로 범하는 가장 치명적인 실수
+### 📖 오늘의 설교: 내 생각은 내가 아닙니다
 
-우리는 살아가면서 수많은 실수를 저지릅니다. 말실수를 하기도 하고, 선택의 기로에서 잘못된 길을 들어서기도 합니다. 인생의 작은 실수들은 시간이 지나면 이불을 걷어찰 만한 부끄러운 추억이 되거나, 혹은 배움의 기회가 되기도 합니다. 하지만 신앙의 여정 속에는 우리의 영혼을 무너뜨리는 매우 '치명적인 실수'가 존재합니다. 
+사랑하는 성도 여러분, 신앙생활을 하면서 이런 고민 해보신 적 없으신가요? 
+"내 마음인데 왜 내 마음대로 안 될까?", "어떻게 내 머릿속에 이런 악하고 부정적인 생각이 떠오를 수 있지?" 
 
-목사님은 오늘 말씀을 통해 우리가 영적으로 범하기 쉬운 가장 치명적인 실수가 무엇인지 엄중하면서도 따뜻하게 짚어주십니다. 그것은 바로 **‘죄를 지은 것’ 그 자체가 아니라, ‘죄를 짓고 난 후 하나님을 피해 숨는 것’**입니다.
+우리는 흔히 머릿속에 떠오르는 모든 생각을 당연히 '나의 생각'이라고 믿고 살아갑니다. 그래서 불쑥 찾아오는 미움, 시기, 절망, 음란한 생각들을 마주할 때마다 스스로를 자책하고 깊은 죄책감에 빠지곤 합니다. '내가 이것밖에 안 되는 신앙인인가' 하고 낙심하는 것이지요. 하지만 오늘 선포된 말씀을 통해 목사님께서는 아주 놀랍고도 해방감을 주는 영적 진리를 선포하십니다. 바로 **"내 머릿속에 떠오른다고 해서 그것이 다 내 생각은 아니다"**라는 사실입니다.
 
-인류 최초의 조상 아담과 하와를 떠올려 보십시오. 그들의 진짜 문제는 선악과를 먹은 행동에만 머무르지 않았습니다. 그들이 범한 가장 치명적인 실수는 하나님의 낯을 피해 동산 나무 사이에 숨은 것이었습니다. 하나님께서 "네가 어디 있느냐"라고 부르실 때, 자신의 수치를 스스로 가려보겠다고 무화과나무 잎을 엮어 치마를 만들고 숨어버린 그 태도가 하나님과의 관계를 완전히 단절시키는 치명적인 결과를 낳았습니다.
+성경은 우리의 생각 속에 다른 영적인 존재가 개입할 수 있음을 분명히 경고합니다. 요한복음 13장 2절을 보면, *“마귀가 벌써 시몬의 아들 가룟 유다의 마음에 예수를 팔려는 생각을 넣었더라”*고 말씀합니다. 가룟 유다는 예수를 팔려는 그 생각이 자신의 위대한 결단이자 주체적인 생각인 줄 알았습니다. 그러나 실상은 마귀가 그의 마음에 슬그머니 집어넣은 미끼였습니다. 이처럼 우리 마음에 떠오르는 수많은 생각 중에는 사탄이 던져 넣은 생각, 혹은 우리 옛 자아의 육신이 주는 생각이 섞여 있습니다.
 
-오늘날 우리도 이와 같은 실수를 반복하곤 합니다. 삶에서 넘어지고 죄를 지었을 때, 혹은 영적으로 침체했을 때 우리는 부끄러움과 정죄감에 사로잡혀 예배의 자리를 피하고, 기도의 무릎을 꿇지 못합니다. "내가 조금 더 온전해지면, 이 문제를 스스로 해결하고 깨끗해지면 그때 하나님 앞에 나아가야지"라고 생각합니다. 
+그렇기에 우리의 생각은 단순한 뇌의 활동이 아니라 치열한 '영적 전쟁터'입니다. 로마서 8장 5절과 6절은 이렇게 말씀합니다. *“육신을 따르는 자는 육신의 일을, 영을 따르는 자는 영의 일을 생각하나니 육신의 생각은 사망이요 영의 생각은 생명과 평안이니라.”* 사탄은 절망과 두려움, 미움과 의심이라는 생각의 미끼를 끊임없이 던집니다. 우리가 그 미끼를 덥석 물고 계속해서 묵상하기 시작할 때, 그 생각은 싹을 틔우고 행동이라는 죄의 열매를 맺게 됩니다. 
 
-그러나 이것은 사탄이 주는 가장 큰 영적 기만이자 치명적인 실수입니다. 스스로의 힘으로 무화과나무 옷을 지어 입으려는 노력은 뜨거운 햇볕 아래 금세 마르고 바스러질 뿐입니다. 우리의 수치와 죄는 결코 스스로 가릴 수 없습니다. 
+종교개혁자 마틴 루터는 이에 대해 아주 지혜로운 말을 남겼습니다. **"새가 내 머리 위로 날아가는 것은 막을 수 없지만, 내 머리 위에 둥지를 트는 것은 막을 수 있다."** 악한 생각이 불쑥 떠오르는 것 자체를 인간의 힘으로 막을 수는 없습니다. 하지만 그 생각을 마음에 품고 기르며 둥지를 틀게 할지, 아니면 단호하게 쫓아낼지는 우리의 선택에 달려 있습니다.
 
-하나님께서 길 잃은 우리를 향해 "네가 어디 있느냐"라고 물으실 때, 우리가 취해야 할 유일한 태도는 숨는 것이 아니라 그 목소리를 의지해 있는 모습 그대로 나아가는 것입니다. 하나님은 이미 우리의 연약함을 아십니다. 그리고 우리의 수치를 가려주기 위해 '가죽옷'을 예비해 두셨습니다. 예수 그리스도의 십자가 보혈이라는 영원한 가죽옷이 이미 우리에게 주어졌습니다.
+이제 우리는 부정적인 생각이 찾아올 때 자책하는 대신, 믿음으로 단호하게 선포해야 합니다. **"이 생각은 내 생각이 아니다! 마귀가 주는 생각이다!"** 우리는 우리 마음 성전의 문지기가 되어야 합니다. 죄책감과 두려움이 밀려올 때 그것을 내 것으로 받아들이지 말고, 예수 그리스도의 이름으로 단호히 거절하십시오.
 
-사랑하는 성도 여러분, 실수하고 넘어지셨습니까? 영적으로 메말라 계십니까? 그렇다면 지금이 바로 하나님께 달려갈 때입니다. 내 힘으로 깨끗해진 후에 가는 것이 아니라, 더러워진 모습 그대로 은혜의 보좌 앞으로 나아가는 것이 영적 지혜이며 살길입니다. 숨지 않고 주님 품으로 달려가는 여러분이 되시기를 소망합니다.
+그렇다면 밀려드는 생각들을 구체적으로 어떻게 다스릴 수 있을까요? 고린도후서 10장 5절은 그 비결을 가르쳐 줍니다. *“모든 이론을 무너뜨리며 하나님 아는 것을 대적하여 높아진 것을 다 무너뜨리고 모든 생각을 사로잡아 그리스도에게 복종하게 하니.”* 
+
+우리의 의지나 결단만으로는 생각을 통제할 수 없습니다. 오직 요동치는 모든 생각을 사로잡아 예수 그리스도께 복종시켜야 합니다. 하루 종일 주님을 바라보며 주님과 동행하는 삶을 힘써야 하는 이유가 바로 여기에 있습니다. 마음의 중심을 생명이신 예수님께 고정하고 영의 생각으로 가득 채울 때, 육신의 생각과 어둠의 권세는 자연스럽게 힘을 잃고 떠나갑니다. 낙심과 두려움이 여러분의 마음 문을 두드릴 때, "주님, 이 생각을 주님께 드립니다. 주님이 내 마음의 주인이십니다"라고 고백하며 온전히 주님만을 바라보는 은혜가 있기를 소망합니다.
 
 ---
 
 ### 💡 이 말씀에서 기억할 3가지 핵심 포인트
 
-1. **진짜 치명적인 실수는 숨는 것입니다**  
-   죄를 지은 것보다 더 위험한 것은 정죄감에 사로잡혀 하나님의 낯을 피하고 예배와 기도의 자리를 멀리하는 것입니다.
-2. **스스로의 힘으로 수치를 가릴 수 없습니다**  
-   아담의 무화과나무 잎처럼, 우리 스스로의 노력이나 도덕적 행위로는 영적인 수치와 죄 문제를 결코 해결할 수 없습니다.
-3. **있는 모습 그대로 나아갈 때 회복이 시작됩니다**  
-   하나님은 이미 예수 그리스도의 보혈(가죽옷)을 예비해 두셨습니다. 정죄감을 떨치고 은혜의 보좌 앞으로 나아가는 것이 유일한 살길입니다.
+1. **내 머리에 떠오르는 모든 생각이 다 나의 생각은 아닙니다.** 사탄이 가룟 유다의 마음에 생각을 집어넣었듯, 부정적이고 악한 생각은 마귀가 던지는 영적인 미끼일 수 있습니다.
+2. **생각은 치열한 영적 전쟁터입니다.** 나쁜 생각이 떠오르는 것 자체를 막을 수는 없지만(새가 날아가는 것), 그것을 묵상하며 마음에 품는 것(둥지를 트는 것)은 우리가 단호히 거절해야 합니다.
+3. **모든 생각을 사로잡아 예수 그리스도께 복종시켜야 합니다.** 내 생각의 주도권을 주님께 내어드리고 하루 종일 주님을 바라볼 때, 영의 생각(생명과 평안)이 우리 마음을 지배하게 됩니다.
 
 ---
 
 ### 🙏 오늘의 묵상과 기도
 
-* **묵상 질문:**  
-  "요즘 하나님 앞에 선뜻 나아가지 못하게 만드는 나의 부끄러움이나 '무화과나무 잎'은 무엇인가요?"
-
-* **기도:**  
-  사랑과 은혜가 풍성하신 하나님 아버지, 넘어지고 깨질 때마다 내 힘으로 문제를 해결하려 하거나 부끄러움에 주님을 피해 숨었던 저의 치명적인 실수를 회개합니다. 주님은 이미 나의 모든 연약함을 아시고 예수 그리스도의 보혈로 덮어주셨음을 믿습니다. 이제 숨지 않고, 있는 모습 그대로 은혜의 보좌 앞으로 달려가오니 저를 품어주시고 다시 일어설 힘을 더하여 주옵소서. 예수님의 이름으로 기도드립니다. 아멘.
+*   **한 줄 묵상 질문:** 
+    오늘 나를 괴롭히고 낙심하게 만든 생각은 과연 '하나님이 주신 생각'입니까, 아니면 '마귀가 던진 거짓 미끼'입니까?
+*   **짧은 기도문:** 
+    사랑의 주님, 내 마음에 불쑥 찾아오는 미움과 두려움, 염려의 생각들을 내 것처럼 붙잡고 괴로워했음을 고백합니다. 이제는 "이 생각은 내 생각이 아니다"라고 단호히 선포하며 생각의 문을 지키게 하옵소서. 내 모든 생각을 사로잡아 오직 생명과 평안이신 예수 그리스도 발앞에 복종시키고, 늘 주님과 동행하며 승리하는 하루가 되게 하여 주옵소서. 예수님의 이름으로 기도드립니다. 아멘.
 
 ---
 
 --- Part 2: English Summary ---
 
-### 📖 Key Theme of Today's Sermon
-The most fatal mistake in our Christian life is not the fact that we stumble or sin, but rather **our tendency to hide from God afterward**. Just as Adam and Eve hid among the trees and tried to cover themselves with fig leaves, we often avoid prayer and worship out of shame. However, we cannot cover our own spiritual nakedness. Real restoration begins when we stop hiding and run as we are to the throne of grace, where the "leather garments" of Jesus' sacrifice await us.
+### 📖 Key Theme of Today's Sermon: My Thoughts Are Not Me
+
+Many Christians suffer from guilt and self-condemnation, believing that every negative, hateful, or lustful thought in their head belongs to them. However, the scripture reveals that our minds are spiritual battlefields, and many of these thoughts are actually spiritual bait planted by the enemy, just as Satan put the thought of betraying Jesus into Judas' heart (John 13:2). 
+
+We cannot stop bad thoughts from occasionally passing through our minds, but we can stop them from settling down and taking root. Instead of feeling defeated by these thoughts, we must recognize their source, declare that "these are not my thoughts," and actively guard the gates of our hearts. The ultimate way to victory is not by human willpower, but by taking every thought captive and making it obedient to Jesus Christ (2 Corinthians 10:5). When we focus our eyes on Jesus daily, His Spirit fills us with life and peace, driving out all darkness.
 
 ---
 
 ### 💡 3 Key Points to Remember
 
-1. **The ultimate mistake is hiding from God**  
-   Do not let guilt and shame drive you away from the presence of God; hiding only deepens the spiritual divide.
-2. **Self-righteousness cannot cover our sins**  
-   Like temporary fig leaves, our own efforts and good deeds can never truly wash away our sins or soothe our souls.
-3. **True healing begins with coming as we are**  
-   God already knows our weaknesses and has prepared the ultimate covering through the blood of Jesus Christ. 
+1. **Not every thought in your head is yours.** The enemy constantly throws negative and sinful thoughts into our minds as spiritual traps; we must distinguish them from our true identity in Christ.
+2. **The mind is a spiritual battlefield.** While we cannot prevent wicked thoughts from occasionally passing by, we have the authority through Christ to refuse to dwell on them or let them nest in our hearts.
+3. **Take every thought captive to Christ.** By shifting our focus to Jesus and practicing His presence daily, our minds will be filled with the thoughts of the Spirit, which bring life and peace.
 
 ---
 
 ### 🙏 Today's Meditation & Prayer
 
-* **Meditation Question:**  
-  "Is there any hidden guilt or shame that is currently keeping you from drawing closer to God?"
-
-* **Prayer:**  
-  Heavenly Father, forgive me for the times I tried to hide from You out of shame and tried to solve my problems on my own. I believe that You have already covered all my sins with the precious blood of Jesus. Today, I choose to stop hiding and run straight into Your arms of grace. Please restore my soul and give me the strength to stand firm in Your love. In Jesus' name, Amen.
+*   **Meditation Question:** 
+    What negative thoughts have been weighing you down today, and how can you actively hand them over to Jesus right now?
+*   **Prayer:** 
+    Heavenly Father, thank You for reminding me that the thoughts of fear, guilt, and anger do not define who I am in You. Help me to guard my heart today and boldly declare that these negative thoughts are not mine. I surrender all my wandering thoughts to the obedience of Jesus Christ. Fill my mind with Your Spirit so that I may walk in Your life and peace today. In Jesus' name, Amen.
 
 ---
 
 ### 🎬 원본 설교 영상 보기 (Original Video)
 - **설교 채널 (Channel):** 성경공방
-- **설교 제목 (Title):** [치명적인 실수](https://www.youtube.com/watch?v=vLwd6aNkNNc)
-- **게시일 (Date):** 2026-07-25
+- **설교 제목 (Title):** [짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란](https://www.youtube.com/watch?v=wFATesO-pRI)
+- **게시일 (Date):** 2026-07-21
 
 ---
 
@@ -88,7 +86,7 @@ The most fatal mistake in our Christian life is not the fact that we stumble or 
         🤖 AI 말씀공부 에이전트와 바로 대화해 보세요!
     </h4>
     <p style="font-size: 14px; color: #cbd5e1; margin-bottom: 20px; line-height: 1.6;">
-        오늘 소개된 '치명적인 실수' 말씀이나 관련 성경 구절에 대해 궁금한 점이 있으신가요? 
+        오늘 소개된 '짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란' 말씀이나 관련 성경 구절에 대해 궁금한 점이 있으신가요? 
         아래 채팅창에서 대화로 묵상을 나누어 보아요!
     </p>
     
