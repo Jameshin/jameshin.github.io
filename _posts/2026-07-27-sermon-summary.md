@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란 | Beyond the Beasts: God’s Relentless Zeal and the Essence of Faith"
+title: "📖 짐승과 다른게 뭐에요 | Beyond the Beasts"
 date: 2026-07-27 09:52:06 +0900
 excerpt: "'짐승과 다른게 뭐에요 l 설교 하나님의의지 하나님의열심 믿음이란' 말씀의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-07-27.jpg"

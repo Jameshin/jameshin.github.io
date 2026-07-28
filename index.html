@@ -27,7 +27,7 @@ sitemap:
 
 				<!-- Intro -->
 					<div id="intro">
-            <h1>{{site.title}}</h1>
+            <h1>{{site.title}}'</h1>
 						<h2>'.com' does not mean 'a company' but 'companion'</h2>
 						<h2>Hey, Dude. Don't worry. Just feel joyful with us.</h2>
 						<p>"Whoever won't think, gets kicked out" - Joseph Beuys</p>
@@ -38,7 +38,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">Scripture Meditation</a>
+						<a href="{{ "/" | relative_url }}" class="logo">Scripture Meditation</a>
 					</header>
 
 				<!-- Nav -->
@@ -59,7 +59,7 @@ sitemap:
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<h2><a href="#">Please do not waste your life</a></h2>
+									<h2><a href="#">Love, Love, and Love Truely</a></h2>
 									<p>Blessed is the man that walketh not in the counsel of the ungodly, <br />
                     nor standeth in the way of sinners, nor sitteth in the seat of the scornful. <br />
                     But his delight is in the law of the Lord; and in his law doth he meditate day and night. [Psalm 1:1~2] </p>
@@ -82,12 +82,12 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  										<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  										<li><a href="{{ post.url | relative_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
                   {% if mod3 == 0 %}
@@ -106,7 +106,7 @@ sitemap:
 						<!-- Footer -->
 							<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Leave Your Message</a></li>
+                  <li><a href="{{ "/blog/" | relative_url }}" class="button">Leave Your Message</a></li>
                 </ul>
 							</footer>
 
