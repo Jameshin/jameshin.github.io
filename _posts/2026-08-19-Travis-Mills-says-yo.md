@@ -55,7 +55,7 @@ image: "/images/default-scenery.jpg"
 
 **[Song Title]:** 내 태도는 은혜입니다 (My Attitude is Grace)
 
-**[Music Style Prompt]:** Warm Acoustic Gospel, Emotional Piano, Heartfelt Male Vocals, 72bpm, Worship
+**[Music Style Prompt]:** Warm Acoustic Gospel, Emotional Piano, Heartfelt Female Vocals, 72bpm, Worship
 
 **(Verse 1)**
 거울 속에 비친 부서진 내 모습
@@ -98,6 +98,29 @@ image: "/images/default-scenery.jpg"
 
 ---
 
+<!-- 🎵 오늘 묵상 기반 AI Gospel 플레이어 카드 -->
+<div style="background-color: #1e293b; border-left: 5px solid #deff9a; padding: 25px; border-radius: 12px; margin-top: 40px; color: #f8fafc; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+        <h4 style="margin: 0; color: #deff9a; font-size: 18px; display: flex; align-items: center; gap: 8px;">
+            🎵 오늘 묵상으로 만든 새노래 (Today's Gospel)
+        </h4>
+        <span style="font-size: 11px; background-color: #22c55e; color: #0f172a; padding: 4px 10px; border-radius: 12px; font-weight: bold;">AI Song & Worship</span>
+    </div>
+
+    <p style="font-size: 14px; color: #cbd5e1; line-height: 1.6; margin-bottom: 20px;">
+        오늘 전해진 'Travis Mills says your situation should never get to dictate your attitude' 은혜와 묵상을 바탕으로 만든 노래입니다. 이 새노래를 들으며 하루의 묵상을 깊이 있게 나누어 보세요.
+    </p>
+
+    <!-- 오디오 플레이어 (음원 파일 저장 위치: /assets/music/YYYY-MM-DD-gospel.mp3) -->
+    <audio controls loop controlsList="nodownload" style="width: 100%; margin-bottom: 10px; outline: none;">
+        <source src="/assets/music/2026-08-19-gospel.mp3" type="audio/mpeg">
+        브라우저가 오디오 재생을 지원하지 않습니다.
+    </audio>
+</div>
+
+<br>
+*본 포스팅 및 노래 가사는 구글 Gemini 3.5 Flash와 자동화 파이프라인에 의해 생성되었습니다.*
+
 --- Part 3: English Summary ---
 
 ### 📖 Today's Words in English
@@ -123,26 +146,3 @@ God cares more about the attitude of our hearts than the harshness of our circum
 3. **Focusing on the Grace That Remains**: Stop grieving what has been lost; instead, focus on the grace and calling God has left in your life and take one faithful step at a time.
 
 ---
-
-<!-- 🎵 오늘 묵상 기반 AI Gospel 플레이어 카드 -->
-<div style="background-color: #1e293b; border-left: 5px solid #deff9a; padding: 25px; border-radius: 12px; margin-top: 40px; color: #f8fafc; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
-        <h4 style="margin: 0; color: #deff9a; font-size: 18px; display: flex; align-items: center; gap: 8px;">
-            🎵 오늘 묵상으로 만든 새노래 (Today's Gospel)
-        </h4>
-        <span style="font-size: 11px; background-color: #22c55e; color: #0f172a; padding: 4px 10px; border-radius: 12px; font-weight: bold;">AI Song & Worship</span>
-    </div>
-
-    <p style="font-size: 14px; color: #cbd5e1; line-height: 1.6; margin-bottom: 20px;">
-        오늘 전해진 'Travis Mills says your situation should never get to dictate your attitude' 은혜와 묵상을 바탕으로 만든 노래입니다. 이 새노래를 들으며 하루의 묵상을 깊이 있게 나누어 보세요.
-    </p>
-
-    <!-- 오디오 플레이어 (음원 파일 저장 위치: /assets/music/YYYY-MM-DD-gospel.mp3) -->
-    <audio controls loop controlsList="nodownload" style="width: 100%; margin-bottom: 10px; outline: none;">
-        <source src="/assets/music/2026-08-19-gospel.mp3" type="audio/mpeg">
-        브라우저가 오디오 재생을 지원하지 않습니다.
-    </audio>
-</div>
-
-<br>
-*본 포스팅 및 노래 가사는 구글 Gemini 3.5 Flash와 자동화 파이프라인에 의해 생성되었습니다.*
