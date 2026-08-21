@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 Travis Mills says your situation should never get to dictate your attitude | Travis Mills: Never Let Your Circumstances Dictate Your Attitude"
+title: "📖 Travis Mills: Never Let Your Circumstances Dictate Your Attitude"
 date: 2026-08-19 09:01:49 +0900
 permalink: /sermon/2026-08-19-Travis-Mills-says-yo/
 excerpt: "'Travis Mills says your situation should never get to dictate your attitude' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
