@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 Our Power Spirit-Filled Living''' | The Power of a Spirit-Filled Life"
+title: "📖 Our Power Spirit-Filled Living | The Power of a Spirit-Filled Life"
 date: 2026-08-21 09:00:46 +0900
 permalink: /sermon/2026-08-21-Our-Power-Spirit-Fil/
 excerpt: "'Our Power Spirit-Filled Living' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
