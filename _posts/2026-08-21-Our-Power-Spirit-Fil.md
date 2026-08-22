@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "📖 Our Power Spirit-Filled Living Timothy Keller Sermon | The Power of a Spirit-Filled Life"
+title: "📖 Our Power Spirit-Filled Living''' | The Power of a Spirit-Filled Life"
 date: 2026-08-21 09:00:46 +0900
 permalink: /sermon/2026-08-21-Our-Power-Spirit-Fil/
-excerpt: "'Our Power Spirit-Filled Living Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'Our Power Spirit-Filled Living' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-08-21.jpg"
 
 ---
 
 ### 🎬 원본 영상 보기 (Original Video)
 - **채널 (Channel):** Gospel in Life
-- **제목 (Title):** [Our Power Spirit-Filled Living Timothy Keller Sermon](https://www.youtube.com/watch?v=gtXwk4tSfV8)
+- **제목 (Title):** [Our Power Spirit-Filled Living Timothy Keller](https://www.youtube.com/watch?v=gtXwk4tSfV8)
 - **게시일 (Date):** 2026-08-15
 
 ---
@@ -107,28 +107,6 @@ image: "/images/header-2026-08-21.jpg"
 
 ---
 
---- Part 3: English Summary ---
-
-### 📖 Today's Words in English
-
-What is driving your life today? Under what influence are you living? In Ephesians 5, the messenger of the Word strongly contrasts the false fullness of the world with the true fullness of the Holy Spirit: *"Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit."* This is not merely a moral warning, but a profound question about what controls our hearts. 
-
-To be drunk on the world's success, approval, or substances leads to "debauchery"—the disintegration and wasting of our true selves. However, being filled with the Spirit does not diminish our personality; rather, it restores us to who we were truly created to be. While worldly intoxication numbs our minds, the Holy Spirit awakens our intellect and heart to see the sheer beauty of the Gospel.
-
-When we are filled with the Spirit, three clear signs flow out of our lives: 
-1. **A Melody in the Heart:** The truth of God's love ceases to be just cold data in our heads and becomes a beautiful song in our souls, leading us to sing and make music to the Lord.
-2. **Radical Gratitude:** We are enabled to give thanks always and for everything, trusting that God's sovereign and loving hands are holding our lives even in the darkest valleys.
-3. **Mutual Submission:** Instead of seeking power over others, we willingly submit to and serve one another out of reverence for Christ.
-
-The secret to being filled with the Spirit is not a heroic human effort. The Holy Spirit acts as a spotlight, always shining on the glory of Jesus Christ and His cross. When we focus our gaze on the immense love demonstrated on the cross, our cold hearts melt, and we are naturally and fully saturated with the presence of God.
-
-#### 💡 3 Key Points from the Message
-1. **The Shift of Influence:** Being controlled by worldly desires destroys us, but being filled with the Holy Spirit restores our true, free, and undivided self.
-2. **The Gospel Becoming Music:** Spirit-filled living transforms theological knowledge into a beautiful, continuous song of worship and deep-seated gratitude in our daily lives.
-3. **Focusing on the Cross:** We are filled with the Spirit when we gaze upon the sacrifice of Jesus Christ, allowing His overwhelming love to captivate our hearts.
-
----
-
 <!-- 🎵 오늘 묵상 기반 AI Gospel 플레이어 카드 -->
 <div style="background-color: #1e293b; border-left: 5px solid #deff9a; padding: 25px; border-radius: 12px; margin-top: 40px; color: #f8fafc; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
     <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
@@ -151,3 +129,26 @@ The secret to being filled with the Spirit is not a heroic human effort. The Hol
 
 <br>
 *본 포스팅 및 노래 가사는 구글 Gemini 3.5 Flash와 자동화 파이프라인에 의해 생성되었습니다.*
+
+--- Part 3: English Summary ---
+
+### 📖 Today's Words in English
+
+What is driving your life today? Under what influence are you living? In Ephesians 5, the messenger of the Word strongly contrasts the false fullness of the world with the true fullness of the Holy Spirit: *"Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit."* This is not merely a moral warning, but a profound question about what controls our hearts. 
+
+To be drunk on the world's success, approval, or substances leads to "debauchery"—the disintegration and wasting of our true selves. However, being filled with the Spirit does not diminish our personality; rather, it restores us to who we were truly created to be. While worldly intoxication numbs our minds, the Holy Spirit awakens our intellect and heart to see the sheer beauty of the Gospel.
+
+When we are filled with the Spirit, three clear signs flow out of our lives: 
+1. **A Melody in the Heart:** The truth of God's love ceases to be just cold data in our heads and becomes a beautiful song in our souls, leading us to sing and make music to the Lord.
+2. **Radical Gratitude:** We are enabled to give thanks always and for everything, trusting that God's sovereign and loving hands are holding our lives even in the darkest valleys.
+3. **Mutual Submission:** Instead of seeking power over others, we willingly submit to and serve one another out of reverence for Christ.
+
+The secret to being filled with the Spirit is not a heroic human effort. The Holy Spirit acts as a spotlight, always shining on the glory of Jesus Christ and His cross. When we focus our gaze on the immense love demonstrated on the cross, our cold hearts melt, and we are naturally and fully saturated with the presence of God.
+
+#### 💡 3 Key Points from the Message
+1. **The Shift of Influence:** Being controlled by worldly desires destroys us, but being filled with the Holy Spirit restores our true, free, and undivided self.
+2. **The Gospel Becoming Music:** Spirit-filled living transforms theological knowledge into a beautiful, continuous song of worship and deep-seated gratitude in our daily lives.
+3. **Focusing on the Cross:** We are filled with the Spirit when we gaze upon the sacrifice of Jesus Christ, allowing His overwhelming love to captivate our hearts.
+
+---
+
