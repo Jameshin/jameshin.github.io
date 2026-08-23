@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "📖 Our Walk The Freedom of Submission Timothy Keller Sermon | The Freedom of Submission: Our Walk of Faith"
+title: "📖 The Freedom of Submission: Our Walk of Faith'''"
 date: 2026-08-23 09:00:48 +0900
 permalink: /sermon/2026-08-23-Our-Walk-The-Freedom/
-excerpt: "'Our Walk The Freedom of Submission Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'Our Walk The Freedom of Submission' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-08-23.jpg"
 
 ---
 
 ### 🎬 원본 영상 보기 (Original Video)
 - **채널 (Channel):** Gospel in Life
-- **제목 (Title):** [Our Walk The Freedom of Submission Timothy Keller Sermon](https://www.youtube.com/watch?v=V6N1DzYzh2w)
+- **제목 (Title):** [Our Walk The Freedom of Submission](https://www.youtube.com/watch?v=V6N1DzYzh2w)
 - **게시일 (Date):** 2026-08-22
 
 ---
