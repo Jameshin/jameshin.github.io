@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 Our Power Spirit-Filled Living | The Power of a Spirit-Filled Life"
+title: "📖 Our Power Spirit-Filled Living''' | The Power of a Spirit-Filled Life"
 date: 2026-08-21 09:00:46 +0900
 permalink: /sermon/2026-08-21-Our-Power-Spirit-Fil/
 excerpt: "'Our Power Spirit-Filled Living' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
@@ -128,7 +128,7 @@ image: "/images/header-2026-08-21.jpg"
 </div>
 
 <br>
-*본 포스팅 및 노래 가사는 구글 Gemini 3.5 Flash와 자동화 파이프라인에 의해 생성되었습니다.*
+*본 포스팅 및 노래 가사는 구글 Gemini 3.5 Flash와 자동화 파이프라인에 의해 생성되었습니다.*12
 
 --- Part 3: English Summary ---
 
