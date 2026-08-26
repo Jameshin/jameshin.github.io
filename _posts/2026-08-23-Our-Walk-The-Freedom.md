@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 The Freedom of Submission: Our Walk of Faith'''"
+title: "📖 The Freedom of Submission: Our Walk of Faith"
 date: 2026-08-23 09:00:48 +0900
 permalink: /sermon/2026-08-23-Our-Walk-The-Freedom/
 excerpt: "'Our Walk The Freedom of Submission' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "📖 Dennis Prager on Why 58 of Democrats Embrace Socialism PragerU | Dennis Prager: Why 58% of Democrats Embrace Socialism"
+title: "📖 Why 58% of Democrats Embrace Socialism"
 date: 2026-08-25 09:00:59 +0900
 permalink: /sermon/2026-08-25-Dennis-Prager-on-Why/
-excerpt: "'Dennis Prager on Why 58 of Democrats Embrace Socialism PragerU' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'Why 58 of Democrats Embrace Socialism' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-08-25.jpg"
 
 ---
