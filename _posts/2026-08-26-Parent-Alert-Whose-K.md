@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "📖 Parent Alert Whose Kids Are They Anyway | Parent Alert: Whose Children Are They, Anyway?"
+title: "📖 아이들은 누구의 소유인가? | Parent Alert: Whose Children Are They, Anyway?"
 date: 2026-08-26 09:01:04 +0900
 permalink: /sermon/2026-08-26-Parent-Alert-Whose-K/
-excerpt: "'Parent Alert Whose Kids Are They Anyway' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'아이들은 누구의 소유인가?' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-08-26.jpg"
 
 ---
