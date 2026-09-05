@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "📖 Our Vocation Lay Ministry - Timothy Keller Sermon | The Vocation of Lay Ministry: A Sermon by Timothy Keller"
+title: "📖 평신도의 소명 | The Vocation of Lay Ministry"
 date: 2026-09-04 09:00:48 +0900
 permalink: /sermon/2026-09-04-Our-Vocation-Lay-Min/
-excerpt: "'Our Vocation Lay Ministry - Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'평신도의 소명' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-09-04.jpg"
 
 ---
@@ -39,7 +39,7 @@ image: "/images/header-2026-09-04.jpg"
 
 3. **복음으로 변화된 일터의 태도 (Redemptive Presence in the Marketplace)**  
    더 이상 자기 증명이나 두려움을 위해 일하지 않고, 그리스도 안에서 얻은 자유함으로 이웃을 섬기며 정직과 탁월함으로 일터 안에서 복음의 향기를 드러내야 합니다.
-
+   
 ---
 
 ### 🙏 오늘의 묵상과 기도
