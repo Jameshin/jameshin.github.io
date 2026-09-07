@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 A Vision of Culture-Making - Timothy Keller Sermon | A Vision for Culture-Making: A Sermon by Timothy Keller"
+title: "문화적 왜곡을 넘어선 기독교인의 문화 형성 참여''' | A Vision for Culture-Making"
 date: 2026-09-07 09:00:55 +0900
 permalink: /sermon/2026-09-07-A-Vision-of-Culture/
 excerpt: "'A Vision of Culture-Making - Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
@@ -105,5 +105,7 @@ We are called to engage deeply with the world while remaining distinctively root
 1. **Rediscovery of the Cultural Mandate**: Our primary calling is "culture-making"—bringing out the potential of God's creation. Our daily work and creativity are sacred tools to fulfill this calling.
 2. **Engagement Over Assimilation or Isolation**: Instead of conforming to worldly values or fleeing from them, we are called to actively engage in society, seeking its "Shalom" (peace and flourishing).
 3. **Sacredness of Daily Work**: Our professions and daily routines are not mere means of survival, but missional fields where we manifest the beauty, justice, and reign of God.
+
+Have a Lovely Week~
 
 ---
