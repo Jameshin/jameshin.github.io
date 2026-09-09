@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "문화적 왜곡을 넘어선 기독교인의 문화 형성 참여''' | A Vision for Culture-Making"
+title: "문화적 왜곡을 넘어선 기독교인의 문화 형성 참여 | A Vision for Culture-Making"
 date: 2026-09-07 09:00:55 +0900
 permalink: /sermon/2026-09-07-A-Vision-of-Culture/
 excerpt: "'A Vision of Culture-Making - Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
