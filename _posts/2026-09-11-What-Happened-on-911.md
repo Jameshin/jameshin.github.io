@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9/11에 일어 났던 일들''' | 9/11 Explained in 5 Minutes"
+title: "9/11에 일어 났던 일들 | 9/11 Explained in 5 Minutes"
 date: 2026-09-11 09:01:23 +0900
 permalink: /sermon/2026-09-11-What-Happened-on-911/
 excerpt: "'What Happened on 911' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
