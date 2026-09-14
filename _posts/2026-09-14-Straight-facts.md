@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 Straight facts | The Unvarnished Truth"
+title: "사실事實의 반석 위에''' | The Unvarnished Truth"
 date: 2026-09-14 09:01:21 +0900
 permalink: /sermon/2026-09-14-Straight-facts/
 excerpt: "'Straight facts' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
@@ -125,5 +125,7 @@ Our faith and the assurance of our salvation must be built upon the historical f
 
 3. **Proclaiming the Truth is the Highest Form of Love**  
    Sharing uncompromising truth is not about condemnation. It is a loving rescue mission to guide people away from deception and toward eternal life.
+   My son has moved his school in Gunpo and gone there. Someone said that Gunpo is a great city because Yuna Kim and Enwoo Cha were born there. Such strange words... Honey, we are going to disappear in this wonderful world, and it is so relieving that our children will carry on our legacy. How do you feel about it? 
+   Have a wonderful week, my honey.  
 
 ---
