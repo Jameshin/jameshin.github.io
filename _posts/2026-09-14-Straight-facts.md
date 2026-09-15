@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "사실事實의 반석 위에''' | The Unvarnished Truth"
+title: "사실事實의 반석 위에 | The Unvarnished Truth"
 date: 2026-09-14 09:01:21 +0900
 permalink: /sermon/2026-09-14-Straight-facts/
 excerpt: "'Straight facts' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
