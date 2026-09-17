@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 Perfect Freedom - Timothy Keller Sermon | Perfect Freedom: A Sermon by Timothy Keller"
+title: "완전한 자유''' | Perfect Freedom'"
 date: 2026-09-17 09:00:45 +0900
 permalink: /sermon/2026-09-17-Perfect-Freedom---Ti/
 excerpt: "'Perfect Freedom - Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
@@ -122,5 +122,7 @@ Ultimately, this paradox is fully realized in Jesus Christ. The Creator of the u
 1. **The Paradox of Freedom:** True freedom is not the absence of boundaries but living within the right, life-giving constraints designed by our Creator.
 2. **Liberation through Submission:** Just as a musician finds artistic freedom through disciplined practice, we find spiritual freedom by aligning our lives with God's truth.
 3. **The Freedom of the Cross:** Jesus Christ gave up His freedom on the cross, taking on our confinement so that we might experience eternal liberation in His love.
+
+I was so busy yesterday that I could barely stay at my desk. I apologize for the delay in checking your message. I’m heading to Gasan Digital Complex in Seoul for a business trip a little later today. I’m thinking of you today, too. Have a wonderful day.
 
 ---
