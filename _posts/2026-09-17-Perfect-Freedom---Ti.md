@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "완전한 자유 | Perfect Freedom'"
+title: "완전한 자유 | Perfect Freedom"
 date: 2026-09-17 09:00:45 +0900
 permalink: /sermon/2026-09-17-Perfect-Freedom---Ti/
 excerpt: "'Perfect Freedom - Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
