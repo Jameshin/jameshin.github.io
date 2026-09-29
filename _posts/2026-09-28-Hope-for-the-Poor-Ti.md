@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "가난한 자들의 진정한 희망''' | Hope for the Poor"
+title: "가난한 자들의 진정한 희망 | Hope for the Poor"
 date: 2026-09-28 10:05:51 +0900
 permalink: /sermon/2026-09-28-Hope-for-the-Poor-Ti/
 excerpt: "'Hope for the Poor Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
