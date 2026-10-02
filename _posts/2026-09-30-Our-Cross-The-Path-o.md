@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "당신의 십자가''' | Our Cross: The Path of Suffering"
+title: "당신의 십자가 | Our Cross: The Path of Suffering"
 date: 2026-09-30 10:20:02 +0900
 permalink: /sermon/2026-09-30-Our-Cross-The-Path-o/
 excerpt: "'Our Cross The Path of Suffering Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
