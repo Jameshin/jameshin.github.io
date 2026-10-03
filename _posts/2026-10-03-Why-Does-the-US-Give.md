@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 Why Does the US Give Billions to the UN The Brief | Why the US Funds the UN: The Billions Explained"
+title: "왜 미국은 UN에 수십억 달러를 낼까''' | Why the US Funds the UN: The Billions Explained"
 date: 2026-10-03 09:00:44 +0900
 permalink: /sermon/2026-10-03-Why-Does-the-US-Give/
 excerpt: "'Why Does the US Give Billions to the UN The Brief' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
