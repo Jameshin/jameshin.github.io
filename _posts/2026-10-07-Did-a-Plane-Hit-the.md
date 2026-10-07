@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 Did a Plane Hit the Pentagon Or Something Else General Deptula Was There The Brief | Did a Plane Hit the Pentagon? Gen. Deptula’s Eyewitness Account | The Brief"
+title: "Did a Plane Hit the Pentagon? Gen. Deptula’s Eyewitness Account'''"
 date: 2026-10-07 09:01:40 +0900
 permalink: /sermon/2026-10-07-Did-a-Plane-Hit-the/
 excerpt: "'Did a Plane Hit the Pentagon Or Something Else General Deptula Was There The Brief' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
