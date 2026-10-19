@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "📖 How Do I Know The Bible Is True Timothy Keller Talk | The Reliability of Scripture: A Discourse by Timothy Keller"
+title: "How Do I Know The Bible Is True''' | The Reliability of Scripture"
 date: 2026-10-19 09:01:41 +0900
 permalink: /sermon/2026-10-19-How-Do-I-Know-The-Bi/
-excerpt: "'How Do I Know The Bible Is True Timothy Keller Talk' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'How Do I Know The Bible Is True' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-10-19.jpg"
 
 ---
