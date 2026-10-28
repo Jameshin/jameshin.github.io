@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "왜 Z세대는 늘 우울할까: 前 FDA 정신과 의사의 설명''' | Decoding Gen Z Depression: A Former FDA Psychiatrist Explains"
+title: "왜 Z세대는 늘 우울할까: 前 FDA 정신과 의사의 설명 | Decoding Gen Z Depression: A Former FDA Psychiatrist Explains"
 date: 2026-10-27 09:00:48 +0900
 permalink: /sermon/2026-10-27-Why-Is-Gen-Z-So-Depr/
 excerpt: "'Why Is Gen Z So Depressed A Former FDA Psychiatrist Explains The Brief' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
