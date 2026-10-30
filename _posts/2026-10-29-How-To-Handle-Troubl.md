@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "어려움을 다루는 방법''' | Navigating Adversity"
+title: "어려움을 다루는 방법 | Navigating Adversity"
 date: 2026-10-29 10:07:38 +0900
 permalink: /sermon/2026-10-29-How-To-Handle-Troubl/
 excerpt: "'How To Handle Trouble Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
