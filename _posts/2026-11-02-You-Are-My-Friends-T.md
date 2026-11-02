@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📖 You Are My Friends Timothy Keller Sermon | You Are My Friends — A Sermon by Timothy Keller"
+title: "당신은 나의 친구입니다''' | You Are My Friends'"
 date: 2026-11-02 10:50:58 +0900
 permalink: /sermon/2026-11-02-You-Are-My-Friends-T/
 excerpt: "'You Are My Friends Timothy Keller Sermon' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
