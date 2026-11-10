@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASU 교수, 강제적 다양성·형평성·포용성 소송을 애리조나주 대법원에 제기하다 | ASU Professor Escalates DEI Lawsuit to the Arizona Supreme Court"
+title: "애리조나大 교수, 강제적 다양성·형평성·포용성 소송을 애리조나주 대법원에 제기하다 | ASU Professor Escalates DEI Lawsuit to the Arizona Supreme Court"
 date: 2026-11-10 09:00:46 +0900
 permalink: /sermon/2026-11-10-ASU-Professor-Takes/
 excerpt: "'ASU Professor Takes DEI Lawsuit to Arizona Supreme Court The Brief' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
