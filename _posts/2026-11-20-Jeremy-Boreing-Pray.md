@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jeremy Boreing: Praying to Be Worthy of Victory"
+title: "승리보다 중요한 것은 승리를 감당하는 것 | Jeremy Boreing: Praying to Be Worthy of Victory"
 date: 2026-11-20 09:00:48 +0900
 permalink: /sermon/2026-11-20-Jeremy-Boreing-Pray/
 excerpt: "'Jeremy Boreing Pray to Be Worthy of Victory' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
