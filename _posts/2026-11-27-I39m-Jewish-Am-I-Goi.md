@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "📖 I39m Jewish Am I Going to Hell Ray Comfort Answers Theological | Im Jewish—Am I Going to Hell? Ray Comfort Answers Theological Questions"
+title: "유대인인 저는 지옥에 가는 건가요? 신학적 질문  | Jewish—Am I Going to Hell?"
 date: 2026-11-27 09:09:51 +0900
 permalink: /sermon/2026-11-27-I39m-Jewish-Am-I-Goi/
-excerpt: "'I39m Jewish Am I Going to Hell Ray Comfort Answers Theological' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
+excerpt: "'Jewish Am I Going to Hell Ray Comfort Answers Theological' 영상의 전문 내용과 한글/영어 핵심 묵상 포인트를 전해드립니다."
 image: "/images/header-2026-11-27.jpg"
 
 ---
 
 ### 🎬 원본 영상 보기 (Original Video)
 - **채널 (Channel):** PragerU
-- **제목 (Title):** [I39m Jewish Am I Going to Hell Ray Comfort Answers Theological](https://www.youtube.com/watch?v=XDwhte_ok9E)
+- **제목 (Title):** [Jewish Am I Going to Hell Ray Comfort Answers Theological](https://www.youtube.com/watch?v=XDwhte_ok9E)
 - **게시일 (Date):** 2026-11-27
 
 ---
